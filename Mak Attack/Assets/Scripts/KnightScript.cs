@@ -7,7 +7,7 @@ public class KnightScript : MonoBehaviour
     public Transform target;
     public float speed = 3f;
     private float maxDistance = 30f;
-    private float attackDistance = 5f;
+    private float attackDistance = 8f;
     private float range;
     private Animator anim;
     //I usually avoid the use of global variables, but unity encourages it for working with the unity interface.
@@ -82,7 +82,7 @@ public class KnightScript : MonoBehaviour
     //Handles Collisions
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.name == "Dwarf" && !knightDead)
+        if (col.gameObject.name == "Rogue" && !knightDead)
         {
             anim.SetBool("attack", true);
             if (range < attackDistance)
