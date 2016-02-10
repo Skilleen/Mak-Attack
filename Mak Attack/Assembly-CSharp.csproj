@@ -47,6 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\Menu\Button.cs" />
      <Compile Include="Assets\Scripts\Camerafollow.cs" />
+     <Compile Include="Assets\Scripts\CanvasScript.cs" />
+     <Compile Include="Assets\Scripts\FirstKnight.cs" />
      <Compile Include="Assets\Scripts\KnightScript.cs" />
      <Compile Include="Assets\Scripts\RayoScript.cs" />
      <Compile Include="Assets\start.cs" />
