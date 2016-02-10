@@ -5,62 +5,113 @@ public class KnightScript : MonoBehaviour
 {
 
     public Transform target;
-    public float speed = 3f;
-    private float maxDistance = 30f;
+    public float speed = 23f;
+    private float maxDistance = 10f;
     private float attackDistance = 8f;
+    public float startposition;
+    public float endpositionX;
+    public float endpositionY;
     private float range;
     private Animator anim;
+    private bool spotted = false;
+    private bool reversePath = false;
     //I usually avoid the use of global variables, but unity encourages it for working with the unity interface.
     public bool knightDead = false;
     public bool doDamage = false; //if both below are true.
     public bool playerHit = false; //If the goblin hits the player
     public bool inRange = false; //If player is in range
-    public float knightLife = 50f;
+    public float knightLife = 150f;
     public Rigidbody2D rb;
     public bool facingRight = true;
-
+    public Transform[] points;
+    private int destPoint = 0;
+    private NavMeshAgent agent;
+    private GameObject Rogue;
+    private RayoScript rogueScript;
 
     void Start()
     {
         anim = GetComponent<Animator>();
+        startposition = transform.position.x;
+        endpositionX = 97;
+        endpositionY = 26;
     }
+
 
     void FixedUpdate()
     {
-
-        doDamage = false;
-        playerHit = false;
-        //To find and move to the Player
-        float myposition = transform.position.x;
-        float playerposition = target.position.x;
-        if (playerposition > myposition && !facingRight)
+        Rogue = GameObject.Find("Rogue");
+        rogueScript = Rogue.GetComponent<RayoScript>();
+        if (rogueScript.dead)
         {
-            Flip();
-        }
-        else if (myposition > playerposition && facingRight)
-        {
-            Flip();
-        }
-        range = Vector2.Distance(transform.position, target.position);
-        //If Player is in range, start moving towards.
-        if (range < maxDistance)
-        {
-            anim.SetBool("walk", true);
-            transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-        }
-        else {
             anim.SetBool("walk", false);
-        }
-        if (range > attackDistance)
-        {
             anim.SetBool("attack", false);
         }
-        if (range < 3f)
+        float playerposition = target.position.x;
+        range = Vector2.Distance(transform.position, target.position);
+        if ((((range > maxDistance) || (target.position.x - transform.position.x > 0 && reversePath) || (transform.position.x - target.position.x > 0 && !reversePath)) && !spotted))
         {
-            if (anim.GetBool("attack") == true)
+            anim.SetBool("walk", true);
+            anim.SetBool("attack", false);
+            if (transform.position.x == endpositionX)
             {
-                playerHit = true;
-                doDamage = true;
+                Flip();
+                if (!reversePath)
+                {
+                    endpositionX = 44;
+                    endpositionY = 26;
+                    reversePath = true;
+                }
+                else
+                {
+                    endpositionX = 97;
+                    endpositionY = 26;
+                    reversePath = false;
+                }
+            }
+            transform.position = Vector2.MoveTowards(transform.position, new Vector2(endpositionX, endpositionY), speed * Time.deltaTime);
+        }
+        
+        //To find and move to the Player
+        else if (!rogueScript.dead) {
+            spotted = true;
+            maxDistance = 50;
+            doDamage = false;
+            playerHit = false;
+            if (playerposition > transform.position.x && !facingRight)
+            {
+                Flip();
+            }
+            else if (transform.position.x > playerposition && facingRight)
+            {
+                Flip();
+            }
+
+
+            //If Player is in range, start moving towards.
+
+            if (range < maxDistance)
+            {
+                anim.SetBool("walk", true);
+                transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+            }
+            else {
+                anim.SetBool("walk", false);
+            }
+            if (range > attackDistance)
+            {
+                anim.SetBool("attack", false);
+            }
+
+
+
+            if (range < 3f)
+            {
+                if (anim.GetBool("attack") == true)
+                {
+                    playerHit = true;
+                    doDamage = true;
+                }
             }
         }
         //Death
@@ -82,7 +133,7 @@ public class KnightScript : MonoBehaviour
     //Handles Collisions
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.name == "Rogue" && !knightDead)
+        if (col.gameObject.name == "Rogue" && !knightDead && !rogueScript.dead)
         {
             anim.SetBool("attack", true);
             if (range < attackDistance)
@@ -93,8 +144,9 @@ public class KnightScript : MonoBehaviour
         }
 
     }
-    //To face left and right
-    void Flip()
+
+        //To face left and right
+        void Flip()
     {
         if (!knightDead)
         {
@@ -104,4 +156,5 @@ public class KnightScript : MonoBehaviour
             transform.localScale = theScale;
         }
     }
-}
+
+    }
