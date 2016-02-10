@@ -13,6 +13,7 @@ public class KnightScript : MonoBehaviour
     public float endpositionY;
     private float range;
     private Animator anim;
+    private int count =1;
     private bool spotted = false;
     private bool reversePath = false;
     //I usually avoid the use of global variables, but unity encourages it for working with the unity interface.
@@ -24,8 +25,6 @@ public class KnightScript : MonoBehaviour
     public Rigidbody2D rb;
     public bool facingRight = true;
     public Transform[] points;
-    private int destPoint = 0;
-    private NavMeshAgent agent;
     private GameObject Rogue;
     private RayoScript rogueScript;
 
@@ -121,13 +120,17 @@ public class KnightScript : MonoBehaviour
             anim.SetBool("dead", true);
             anim.SetBool("attack", false);
             anim.SetBool("walk", false);
-            anim.SetBool("hit", false);
             speed = 0f;
             knightDead = true;
             rb.isKinematic = true;
             BoxCollider2D b; //Remove the collision box.
             b = GetComponent<BoxCollider2D>();
             b.enabled = false;
+            if (count == 1)
+            {
+                rogueScript.rayoScore += 50;
+                count++;
+            }
         }
     }
     //Handles Collisions

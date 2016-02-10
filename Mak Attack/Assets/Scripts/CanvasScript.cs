@@ -15,6 +15,6 @@ public class CanvasScript : MonoBehaviour {
 	void Update () {
         GameObject Rogue = GameObject.Find("Rogue");
         RayoScript rayoScript = Rogue.GetComponent<RayoScript>();
-        instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2");
+        instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "   Score: " + rayoScript.rayoScore.ToString("n2");
     }
 }

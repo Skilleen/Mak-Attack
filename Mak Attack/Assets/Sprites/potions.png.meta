@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 8d6cecf7625bc334c8e3c6791c27ff84
+timeCreated: 1455122434
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: potions_0
+    21300002: potions_1
+    21300004: potions_2
+    21300006: potions_3
+    21300008: potions_4
+    21300010: potions_5
+    21300012: potions_6
+    21300014: potions_7
+    21300016: potions_8
+    21300018: potions_9
+    21300020: potions_10
+    21300022: potions_11
+    21300024: potions_12
+    21300026: potions_13
+    21300028: potions_14
+    21300030: potions_15
+    21300032: potions_16
+    21300034: potions_17
+    21300036: potions_18
+    21300038: potions_19
+    21300040: potions_20
+    21300042: potions_21
+    21300044: potions_22
+    21300046: potions_23
+    21300048: potions_24
+    21300050: potions_25
+    21300052: potions_26
+    21300054: potions_27
+    21300056: potions_28
+    21300058: potions_29
+    21300060: potions_30
+    21300062: potions_31
+    21300064: potions_32
+    21300066: potions_33
+    21300068: potions_34
+    21300070: potions_35
+    21300072: potions_36
+    21300074: potions_37
+    21300076: potions_38
+    21300078: potions_39
+    21300080: potions_40
+    21300082: potions_41
+    21300084: potions_42
+    21300086: potions_43
+    21300088: potions_44
+    21300090: potions_45
+    21300092: potions_46
+    21300094: potions_47
+    21300096: potions_48
+    21300098: potions_49
+    21300100: potions_50
+    21300102: potions_51
+    21300104: potions_52
+    21300106: potions_53
+    21300108: potions_54
+    21300110: potions_55
+    21300112: potions_56
+    21300114: potions_57
+    21300116: potions_58
+    21300118: potions_59
+    21300120: potions_60
+    21300122: potions_61
+    21300124: potions_62
+    21300126: potions_63
+    21300128: potions_64
+    21300130: potions_65
+    21300132: potions_66
+    21300134: potions_67
+    21300136: potions_68
+    21300138: potions_69
+    21300140: potions_70
+    21300142: potions_71
+    21300144: potions_72
+    21300146: potions_73
+    21300148: potions_74
+    21300150: potions_75
+    21300152: potions_76
+    21300154: potions_77
+    21300156: potions_78
+    21300158: potions_79
+    21300160: potions_80
+    21300162: potions_81
+    21300164: potions_82
+    21300166: potions_83
+    21300168: potions_84
+    21300170: potions_85
+    21300172: potions_86
+    21300174: potions_87
+    21300176: potions_88
+    21300178: potions_89
+    21300180: potions_90
+    21300182: potions_91
+    21300184: potions_92
+    21300186: potions_93
+    21300188: potions_94
+    21300190: potions_95
+    21300192: potions_96
+    21300194: potions_97
+    21300196: potions_98
+    21300198: potions_99
+    21300200: potions_100
+    21300202: potions_101
+    21300204: potions_102
+    21300206: potions_103
+    21300208: potions_104
+    21300210: potions_105
+    21300212: potions_106
+    21300214: potions_107
+    21300216: potions_108
+    21300218: potions_109
+    21300220: potions_110
+    21300222: potions_111
+    21300224: potions_112
+    21300226: potions_113
+    21300228: potions_114
+    21300230: potions_115
+    21300232: potions_116
+    21300234: potions_117
+    21300236: potions_118
+    21300238: potions_119
+    21300240: potions_120
+    21300242: potions_121
+    21300244: potions_122
+    21300246: potions_123
+    21300248: potions_124
+    21300250: potions_125
+    21300252: potions_126
+    21300254: potions_127
+    21300256: potions_128
+    21300258: potions_129
+    21300260: potions_130
+    21300262: potions_131
+    21300264: potions_132
+    21300266: potions_133
+    21300268: potions_134
+    21300270: potions_135
+    21300272: potions_136
+    21300274: potions_137
+    21300276: potions_138
+    21300278: potions_139
+    21300280: potions_140
+    21300282: potions_141
+    21300284: potions_142
+    21300286: potions_143
+    21300288: potions_144
+    21300290: potions_145
+    21300292: potions_146
+    21300294: potions_147
+    21300296: potions_148
+    21300298: potions_149
+    21300300: potions_150
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: potions_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 469
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 469
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 468
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 469
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 468
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 437
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 438
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 438
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 437
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 405
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 405
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 372
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 371
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 372
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 372
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 372
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 339
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 339
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 339
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 339
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_72
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_73
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 339
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_86
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_97
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 27}
+        - {x: -31, y: 17}
+        - {x: -31, y: -21}
+        - {x: -23, y: -27}
+        - {x: 24, y: -27}
+        - {x: 29, y: -26}
+        - {x: 31, y: -17}
+        - {x: 31, y: 17}
+        - {x: 21, y: 27}
+    - name: potions_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31}
+        - {x: -29, y: -21}
+        - {x: -22, y: -30}
+        - {x: -16, y: -31}
+        - {x: 21, y: -31}
+        - {x: 29, y: -26}
+        - {x: 29, y: 31}
+    - name: potions_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 184
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 23}
+        - {x: -31, y: -17}
+        - {x: -16, y: -23}
+        - {x: 23, y: -23}
+        - {x: 31, y: -14}
+        - {x: 31, y: 23}
+    - name: potions_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 184
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 31}
+        - {x: -8, y: 31}
+        - {x: -29, y: 8}
+        - {x: -29, y: -31}
+        - {x: 3, y: -31}
+        - {x: 27, y: -27}
+        - {x: 29, y: -26}
+        - {x: 29, y: 15}
+    - name: potions_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 24}
+        - {x: -31, y: -24}
+        - {x: 25, y: -24}
+        - {x: 31, y: -16}
+        - {x: 31, y: 21}
+        - {x: 23, y: 24}
+    - name: potions_103
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -31, y: 21}
+        - {x: -31, y: -13}
+        - {x: -26, y: -24}
+        - {x: 26, y: -24}
+        - {x: 31, y: -16}
+        - {x: 31, y: 24}
+    - name: potions_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 25}
+        - {x: -31, y: 25}
+        - {x: -31, y: -19}
+        - {x: -23, y: -25}
+        - {x: 16, y: -25}
+        - {x: 31, y: -20}
+        - {x: 31, y: -3}
+        - {x: 27, y: 11}
+    - name: potions_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 31}
+        - {x: -28.5, y: 25}
+        - {x: -30.5, y: 15}
+        - {x: -30.5, y: -31}
+        - {x: 30.5, y: -31}
+        - {x: 30.5, y: 31}
+    - name: potions_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 30}
+        - {x: -8, y: 30}
+        - {x: -31, y: 21}
+        - {x: -31, y: -30}
+        - {x: 4, y: -30}
+        - {x: 21, y: -26}
+        - {x: 31, y: -18}
+        - {x: 31, y: 22}
+    - name: potions_107
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 31}
+        - {x: -29.5, y: 21}
+        - {x: -29.5, y: -31}
+        - {x: 13.5, y: -31}
+        - {x: 29.5, y: -11}
+        - {x: 29.5, y: 25}
+        - {x: -0.5, y: 31}
+    - name: potions_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 31}
+        - {x: -26, y: 31}
+        - {x: -28, y: 20}
+        - {x: -28, y: -31}
+        - {x: 13, y: -31}
+        - {x: 24, y: -22}
+        - {x: 28, y: -8}
+        - {x: 28, y: 22}
+    - name: potions_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 109
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -31, y: 14}
+        - {x: -31, y: 2}
+        - {x: -4, y: -27}
+        - {x: 4, y: -27}
+        - {x: 31, y: -2}
+        - {x: 31, y: 26}
+        - {x: 23, y: 27}
+    - name: potions_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 108
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 27}
+        - {x: -31, y: 15}
+        - {x: -31, y: 2}
+        - {x: -5, y: -27}
+        - {x: 5, y: -27}
+        - {x: 31, y: -3}
+        - {x: 31, y: 12}
+        - {x: 23, y: 27}
+    - name: potions_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 107
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27.5}
+        - {x: -31, y: 13.5}
+        - {x: -31, y: -4.5}
+        - {x: -4, y: -27.5}
+        - {x: 5, y: -27.5}
+        - {x: 31, y: -5.5}
+        - {x: 31, y: 15.5}
+        - {x: 25, y: 27.5}
+    - name: potions_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -31, y: 15}
+        - {x: -31, y: -5}
+        - {x: -5, y: -27}
+        - {x: 5, y: -27}
+        - {x: 31, y: -6}
+        - {x: 31, y: 16}
+        - {x: 24, y: 27}
+    - name: potions_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -31, y: 15}
+        - {x: -31, y: -5}
+        - {x: -5, y: -27}
+        - {x: 5, y: -27}
+        - {x: 31, y: -5}
+        - {x: 31, y: 15}
+        - {x: 24, y: 27}
+    - name: potions_114
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_117
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_118
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_119
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 60
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_122
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_123
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_124
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_125
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_127
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_129
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_131
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_134
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_135
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_136
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_137
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_138
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_139
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_140
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_143
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_144
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_145
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_146
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_147
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_148
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_149
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: potions_150
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -66,7 +66,9 @@
     <Compile Include="Assets\Scripts\CanvasScript.cs" />
     <Compile Include="Assets\Scripts\FirstKnight.cs" />
     <Compile Include="Assets\Scripts\KnightScript.cs" />
+    <Compile Include="Assets\Scripts\KnightScript2.cs" />
     <Compile Include="Assets\Scripts\RayoScript.cs" />
+    <Compile Include="Assets\Scripts\RedGem.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
