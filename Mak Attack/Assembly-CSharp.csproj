@@ -51,8 +51,10 @@
      <Compile Include="Assets\Scripts\FirstKnight.cs" />
      <Compile Include="Assets\Scripts\KnightScript.cs" />
      <Compile Include="Assets\Scripts\KnightScript2.cs" />
+     <Compile Include="Assets\Scripts\NextLevel.cs" />
      <Compile Include="Assets\Scripts\RayoScript.cs" />
      <Compile Include="Assets\Scripts\RedGem.cs" />
+     <Compile Include="Assets\Scripts\enoch.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

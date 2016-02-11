@@ -14,6 +14,7 @@ public class RayoScript : MonoBehaviour
     private bool firstknightCollide = false;
     private bool patrolknightCollide = false;
     private bool patrolknightCollide2 = false;
+	public bool art = false;
 
     // Use this for initialization
     void Start()
@@ -144,5 +145,9 @@ public class RayoScript : MonoBehaviour
         {
             patrolknightCollide2 = true;
         }
-    }
+		if (col.gameObject.name == "BumpForEnoch")
+		{
+			art = true;
+    	}
+	}
 }
