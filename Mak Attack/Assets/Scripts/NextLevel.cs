@@ -11,7 +11,7 @@ public class NextLevel: MonoBehaviour {
 		RayoScript rayoScript =  Rogue.GetComponent<RayoScript>();
 		//Health in World one.
 		if(col.gameObject.name=="Rogue"){
-			Destroy(gameObject);
+			Destroy(GameObject.FindGameObjectWithTag("enoch"));
 			rayoScript.rayoScore=rayoScript.rayoScore+200; //If health is less than 30.
 		}
 	}
