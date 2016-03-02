@@ -19,7 +19,7 @@ public class CanvasScript : MonoBehaviour {
         RayoScript rayoScript = Rogue.GetComponent<RayoScript>();
         if (!rayoScript.dead)
         {
-            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "   Score: " + rayoScript.rayoScore.ToString("n2");
+            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: 1";
         }
         else
         {
