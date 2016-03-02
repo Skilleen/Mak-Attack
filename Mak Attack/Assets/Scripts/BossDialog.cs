@@ -32,7 +32,7 @@ public class BossDialog : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.name == "Rouge")
+        if (col.gameObject.name == "Rogue")
         {
             displayDialog = true;
 

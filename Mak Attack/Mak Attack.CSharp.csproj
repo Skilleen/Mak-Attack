@@ -62,7 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Menu\Button.cs" />
+    <Compile Include="Assets\Menu\menuButtonScript.cs" />
     <Compile Include="Assets\Scripts\BossDialog.cs" />
     <Compile Include="Assets\Scripts\ButtonText.cs" />
     <Compile Include="Assets\Scripts\Camerafollow.cs" />

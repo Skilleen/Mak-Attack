@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.EventSystems;
 
-public class Button : MonoBehaviour {
+public class menuButtonScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	}
