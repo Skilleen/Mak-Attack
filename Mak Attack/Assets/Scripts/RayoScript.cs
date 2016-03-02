@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+using UnityEngine.SceneManagement;
 
 public class RayoScript : MonoBehaviour
 {
@@ -38,79 +38,83 @@ public class RayoScript : MonoBehaviour
 
         anim.SetBool("attack", false);
         anim.SetBool("walk", false); //reset animations on every update
-        if (Input.GetKey(KeyCode.A))
-        {
-            if (facingRight)
-            {
-                Vector3 theScale = transform.localScale;
-                theScale.x *= -1;
-                transform.localScale = theScale;
-                facingRight = false;
-            }
-            transform.position += Vector3.left * speed * Time.deltaTime;
-            anim.SetBool("walk", true);
-            anim.SetBool("attack", false);
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            if (!facingRight)
-            {
-                Vector3 theScale = transform.localScale;
-                theScale.x *= -1;
-                transform.localScale = theScale;
-                facingRight = true;
-            }
-            transform.position += Vector3.right * speed * Time.deltaTime;
-            anim.SetBool("walk", true);
-            anim.SetBool("attack", false);
-        }
-
-        if (Input.GetKey(KeyCode.W))
-        {
-            transform.position += Vector3.up * speed * Time.deltaTime;
-            anim.SetBool("walk", true);
-            anim.SetBool("attack", false);
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            transform.position += Vector3.down * speed * Time.deltaTime;
-            anim.SetBool("walk", true);
-            anim.SetBool("attack", false);
-        }
-
-        if (Input.GetMouseButton(0))
+        if (!dead) //Make sure player is not dead
         {
 
-            if (this.anim.GetCurrentAnimatorStateInfo(0).IsName("RogueAttack"))
+            if (Input.GetKey(KeyCode.A))
             {
-                // Avoid any reload.
+                if (facingRight)
+                {
+                    Vector3 theScale = transform.localScale;
+                    theScale.x *= -1;
+                    transform.localScale = theScale;
+                    facingRight = false;
+                }
+                transform.position += Vector3.left * speed * Time.deltaTime;
+                anim.SetBool("walk", true);
+                anim.SetBool("attack", false);
             }
-            else {
-                anim.SetBool("attack", true);
-                if (firstknightCollide && !knightScript.knightDead)
+            if (Input.GetKey(KeyCode.D))
+            {
+                if (!facingRight)
                 {
-                    Knight.GetComponent<SpriteRenderer>().color = Color.red;
-                    knightScript.knightLife = 0;
+                    Vector3 theScale = transform.localScale;
+                    theScale.x *= -1;
+                    transform.localScale = theScale;
+                    facingRight = true;
                 }
-                if (patrolknightCollide && !patrolknightScript.knightDead && patrolknightScript.doDamage && facingRight != patrolknightScript.facingRight)
+                transform.position += Vector3.right * speed * Time.deltaTime;
+                anim.SetBool("walk", true);
+                anim.SetBool("attack", false);
+            }
+
+            if (Input.GetKey(KeyCode.W))
+            {
+                transform.position += Vector3.up * speed * Time.deltaTime;
+                anim.SetBool("walk", true);
+                anim.SetBool("attack", false);
+            }
+            if (Input.GetKey(KeyCode.S))
+            {
+                transform.position += Vector3.down * speed * Time.deltaTime;
+                anim.SetBool("walk", true);
+                anim.SetBool("attack", false);
+            }
+
+            if (Input.GetMouseButton(0))
+            {
+
+                if (this.anim.GetCurrentAnimatorStateInfo(0).IsName("RogueAttack"))
                 {
-                    PatrolKnight.GetComponent<SpriteRenderer>().color = Color.red;
-                    patrolknightScript.knightLife -= 2;
+                    // Avoid any reload.
                 }
-                if (patrolknightCollide && !patrolknightScript.knightDead && !patrolknightScript.doDamage)
-                {
-                    PatrolKnight.GetComponent<SpriteRenderer>().color = Color.red;
-                    patrolknightScript.knightLife = 0;
-                }
-                if (patrolknightCollide2 && !patrolknightScript2.knightDead && !patrolknightScript2.isBackstab())
-                {
-                    PatrolKnight2.GetComponent<SpriteRenderer>().color = Color.red;
-                    patrolknightScript2.knightLife -= 8;
-                }
-                if (patrolknightCollide2 && !patrolknightScript2.knightDead && patrolknightScript2.isBackstab())
-                {
-                    PatrolKnight2.GetComponent<SpriteRenderer>().color = Color.red;
-                    patrolknightScript2.knightLife = 0;
+                else {
+                    anim.SetBool("attack", true);
+                    if (firstknightCollide && !knightScript.knightDead)
+                    {
+                        Knight.GetComponent<SpriteRenderer>().color = Color.red;
+                        knightScript.knightLife = 0;
+                    }
+                    if (patrolknightCollide && !patrolknightScript.knightDead && patrolknightScript.doDamage && facingRight != patrolknightScript.facingRight)
+                    {
+                        PatrolKnight.GetComponent<SpriteRenderer>().color = Color.red;
+                        patrolknightScript.knightLife -= 2;
+                    }
+                    if (patrolknightCollide && !patrolknightScript.knightDead && !patrolknightScript.doDamage)
+                    {
+                        PatrolKnight.GetComponent<SpriteRenderer>().color = Color.red;
+                        patrolknightScript.knightLife = 0;
+                    }
+                    if (patrolknightCollide2 && !patrolknightScript2.knightDead && !patrolknightScript2.isBackstab())
+                    {
+                        PatrolKnight2.GetComponent<SpriteRenderer>().color = Color.red;
+                        patrolknightScript2.knightLife -= 8;
+                    }
+                    if (patrolknightCollide2 && !patrolknightScript2.knightDead && patrolknightScript2.isBackstab())
+                    {
+                        PatrolKnight2.GetComponent<SpriteRenderer>().color = Color.red;
+                        patrolknightScript2.knightLife = 0;
+                    }
                 }
             }
         }
