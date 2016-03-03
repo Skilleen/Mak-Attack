@@ -153,5 +153,9 @@ public class RayoScript : MonoBehaviour
 		{
 			art = true;
     	}
-	}
+        if (col.gameObject.name == "levelExit")
+        {
+            SceneManager.LoadScene("Shop");
+        }
+    }
 }

@@ -8,6 +8,7 @@ public class CanvasScript : MonoBehaviour {
     public Text instruction;
     public int armourLevel;
     private float timeLeft = 5.0f;
+    private bool bossPaid = false;
     // Use this for initialization
     void Start () {
        instruction = GetComponent<Text>();
@@ -17,6 +18,14 @@ public class CanvasScript : MonoBehaviour {
 	void Update () {
         GameObject Rogue = GameObject.Find("Rogue");
         RayoScript rayoScript = Rogue.GetComponent<RayoScript>();
+        GameObject boss = GameObject.Find("FirstBoss");
+        BossDialog bossScript = boss.GetComponent<BossDialog>();
+        if (bossScript.paymentAccept && !bossPaid)
+        {
+            rayoScript.rayoScore -= 100;
+            bossScript.paymentAccept = false;
+            bossPaid = true;
+        }
         if (!rayoScript.dead)
         {
             instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: 1";

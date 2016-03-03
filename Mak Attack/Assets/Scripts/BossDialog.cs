@@ -9,6 +9,7 @@ public class BossDialog : MonoBehaviour
     public Transform target;
     public bool paymentAccept = false; //If the user accepted.
     public Rigidbody2D rb;
+    public bool attackBoss = false;
 
 
 
@@ -21,11 +22,19 @@ public class BossDialog : MonoBehaviour
         if (range >= 5)
         {
             displayDialog = false;
+            Cursor.visible = false;
         }
         rb = GetComponent<Rigidbody2D>();
-        if (rb.mass == 2)
+        if (rb.mass == 99)
         {
             paymentAccept = true;
+            rb.mass = 97;
+
+        }
+        if(rb.mass == 98)
+        {
+            attackBoss = true;
+            rb.mass = 97;
         }
     }
 

@@ -14,4 +14,18 @@ public class ButtonText : MonoBehaviour {
 
 	}
 
+    void Update ()
+    {
+        GameObject Rogue = GameObject.Find("Rogue");
+        RayoScript rayoScript = Rogue.GetComponent<RayoScript>();
+        if(rayoScript.rayoScore < 100)
+        {
+            button1.interactable = false;
+        }
+        else
+        {
+            button1.interactable = true;
+        }
+    }
+
 }

@@ -10,7 +10,6 @@ public class panelVisible : MonoBehaviour {
 		CanvasGroup canvasGroup;
 		public Button button1; //Two Dialog buttons.
 		public Button button2;
-        private int count = 200;
 		void Awake()
 		{
 			canvasGroup = GetComponent<CanvasGroup>();
@@ -18,9 +17,7 @@ public class panelVisible : MonoBehaviour {
 		
 		void Start ()
 		{
-			//canvasGroup.alpha=0; //Make the panel invisible
             canvasGroup.alpha = 0; //Make the panel invisible
-            Cursor.visible = true;
 
     }
 
@@ -30,8 +27,6 @@ public class panelVisible : MonoBehaviour {
 
             if (boss.displayDialog)
             {
-                button1.interactable = true;
-                button2.interactable = true;
                 canvasGroup.alpha = 1;//show the conversation panel.
                 Cursor.visible = true;
             }
