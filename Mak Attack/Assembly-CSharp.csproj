@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Menu\Button.cs" />
+     <Compile Include="Assets\Menu\menuButtonScript.cs" />
+     <Compile Include="Assets\Scripts\BossDialog.cs" />
+     <Compile Include="Assets\Scripts\ButtonText.cs" />
      <Compile Include="Assets\Scripts\Camerafollow.cs" />
      <Compile Include="Assets\Scripts\CanvasScript.cs" />
      <Compile Include="Assets\Scripts\FirstKnight.cs" />
@@ -55,6 +57,7 @@
      <Compile Include="Assets\Scripts\RayoScript.cs" />
      <Compile Include="Assets\Scripts\RedGem.cs" />
      <Compile Include="Assets\Scripts\enoch.cs" />
+     <Compile Include="Assets\Scripts\panelVisible.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

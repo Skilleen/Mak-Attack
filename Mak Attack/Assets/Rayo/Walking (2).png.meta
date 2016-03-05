@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: ca571785c7bca7343bf53cbeedf01f6b
+timeCreated: 1457038666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walking (2)_0
+    21300002: Walking (2)_1
+    21300004: Walking (2)_2
+    21300006: Walking (2)_3
+    21300008: Walking (2)_4
+    21300010: Walking (2)_5
+    21300012: Walking (2)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walking (2)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28}
+        - {x: -19, y: 8}
+        - {x: -19, y: -16}
+        - {x: -6, y: -28}
+        - {x: 19, y: -28}
+        - {x: 19, y: 28}
+    - name: Walking (2)_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -18, y: 25}
+        - {x: -18, y: -28}
+        - {x: 18, y: -28}
+        - {x: 18, y: 25}
+        - {x: 17, y: 28}
+    - name: Walking (2)_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 28}
+        - {x: -7, y: 23}
+        - {x: -18, y: 0}
+        - {x: -18, y: -13}
+        - {x: -7, y: -28}
+        - {x: 18, y: -28}
+        - {x: 18, y: 25}
+        - {x: 17, y: 28}
+    - name: Walking (2)_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Walking (2)_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 14, y: -28}
+        - {x: 17, y: -24}
+        - {x: 17, y: 28}
+    - name: Walking (2)_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 28}
+        - {x: -16, y: -28}
+        - {x: 9, y: -28}
+        - {x: 12, y: -26}
+        - {x: 16, y: -20}
+        - {x: 16, y: 18}
+        - {x: 15, y: 28}
+    - name: Walking (2)_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -18, y: 6}
+        - {x: -18, y: -16}
+        - {x: -14, y: -28}
+        - {x: 10, y: -28}
+        - {x: 18, y: -22}
+        - {x: 18, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
