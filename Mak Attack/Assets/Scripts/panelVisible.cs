@@ -24,6 +24,23 @@ public class panelVisible : MonoBehaviour {
 		void Update (){
             GameObject firstBoss = GameObject.Find("FirstBoss");
             BossDialog boss = firstBoss.GetComponent<BossDialog>();
+            GameObject Rogue = GameObject.Find("Rogue");
+            RayoScript rayoScript = Rogue.GetComponent<RayoScript>();
+        if (boss.range > 5)
+        {
+            button1.interactable = false;
+            button2.interactable = false;
+        }
+        else if (boss.range <= 5 && rayoScript.rayoScore > 100)
+        {
+            button1.interactable = true;
+            button2.interactable = true;
+        }
+        else if (boss.range <= 5 && rayoScript.rayoScore < 100)
+        {
+            button1.interactable = false;
+            button2.interactable = true;
+        }
 
             if (boss.displayDialog)
             {

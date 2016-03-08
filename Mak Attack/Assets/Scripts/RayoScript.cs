@@ -11,6 +11,9 @@ public class RayoScript : MonoBehaviour
     public float rayoLife = 100f;
     public int rayoScore = 0;
     public bool dead = false;
+    public int potionCount = 1;
+    public float rayoDamage = 5;
+    public int rayoMaxLife = 100;
     private bool firstknightCollide = false;
     private bool patrolknightCollide = false;
     private bool patrolknightCollide2 = false;
@@ -25,7 +28,11 @@ public class RayoScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        
+        PlayerPrefs.SetFloat("health", rayoLife);
+        PlayerPrefs.SetFloat("maxhealth", rayoMaxLife);
+        PlayerPrefs.SetInt("score", rayoScore);
+        PlayerPrefs.SetFloat("damage", rayoDamage);
+        PlayerPrefs.SetInt("potions", potionCount);
         GameObject Knight = GameObject.Find("FirstKnight");
         FirstKnight knightScript = Knight.GetComponent<FirstKnight>();
         GameObject PatrolKnight = GameObject.Find("KnightPatrol");
@@ -40,6 +47,15 @@ public class RayoScript : MonoBehaviour
         anim.SetBool("walk", false); //reset animations on every update
         if (!dead) //Make sure player is not dead
         {
+
+            if (Input.GetKey(KeyCode.Q))
+            {
+                if(potionCount > 0)
+                {
+                    potionCount--;
+                    rayoLife = rayoMaxLife;
+                }
+            }
 
             if (Input.GetKey(KeyCode.A))
             {
@@ -84,7 +100,7 @@ public class RayoScript : MonoBehaviour
             if (Input.GetMouseButton(0))
             {
 
-                if (this.anim.GetCurrentAnimatorStateInfo(0).IsName("RogueAttack"))
+                if (this.anim.GetCurrentAnimatorStateInfo(0).IsName("shanking"))
                 {
                     // Avoid any reload.
                 }

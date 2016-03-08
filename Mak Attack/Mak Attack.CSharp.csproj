@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\NextLevel.cs" />
     <Compile Include="Assets\Scripts\RayoScript.cs" />
     <Compile Include="Assets\Scripts\RedGem.cs" />
+    <Compile Include="Assets\Scripts\ShopScript.cs" />
     <Compile Include="Assets\Scripts\enoch.cs" />
     <Compile Include="Assets\Scripts\panelVisible.cs" />
   </ItemGroup>

@@ -20,7 +20,7 @@ public class CanvasScript : MonoBehaviour {
         RayoScript rayoScript = Rogue.GetComponent<RayoScript>();
         GameObject boss = GameObject.Find("FirstBoss");
         BossDialog bossScript = boss.GetComponent<BossDialog>();
-        if (bossScript.paymentAccept && !bossPaid)
+        if (bossScript.paymentAccept && !bossPaid && bossScript.range < 5)
         {
             rayoScript.rayoScore -= 100;
             bossScript.paymentAccept = false;
@@ -28,7 +28,7 @@ public class CanvasScript : MonoBehaviour {
         }
         if (!rayoScript.dead)
         {
-            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: 1";
+            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: "+rayoScript.potionCount.ToString();
         }
         else
         {
