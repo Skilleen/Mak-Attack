@@ -29,7 +29,7 @@ public class RayoScript : MonoBehaviour
     void FixedUpdate()
     {
         PlayerPrefs.SetFloat("health", rayoLife);
-        PlayerPrefs.SetFloat("maxhealth", rayoMaxLife);
+        PlayerPrefs.SetInt("maxhealth", rayoMaxLife);
         PlayerPrefs.SetInt("score", rayoScore);
         PlayerPrefs.SetFloat("damage", rayoDamage);
         PlayerPrefs.SetInt("potions", potionCount);

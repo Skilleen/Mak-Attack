@@ -14,7 +14,7 @@ public class ShopScript : MonoBehaviour {
     private int playerPoints;
     private float playerHealth;
     private float playerDamage;
-    private float playerMaxHealth;
+    private int playerMaxHealth;
     private int potionCount;
 
     void Start () {
@@ -23,7 +23,7 @@ public class ShopScript : MonoBehaviour {
         playerHealth = PlayerPrefs.GetFloat("health");
         playerDamage = PlayerPrefs.GetFloat("damage");
         potionCount = PlayerPrefs.GetInt("potions");
-        playerMaxHealth = PlayerPrefs.GetFloat("maxhealth");
+        playerMaxHealth = PlayerPrefs.GetInt("maxhealth");
     }
 	
 	// Update is called once per frame
@@ -54,7 +54,12 @@ public class ShopScript : MonoBehaviour {
         if (rb.mass == 4)
         {
             rb.mass = 5;
-            SceneManager.LoadScene("menu");
+            PlayerPrefs.SetFloat("health", playerHealth);
+            PlayerPrefs.SetInt("maxhealth", playerMaxHealth);
+            PlayerPrefs.SetInt("score", playerPoints);
+            PlayerPrefs.SetFloat("damage", playerDamage);
+            PlayerPrefs.SetInt("potions", potionCount);
+            SceneManager.LoadScene("LevelTwo");
         }
         yourPoints.text = "Health: "+playerHealth.ToString("n1")+"/" + playerMaxHealth + "         Damage: "+playerDamage+"            Potions: "+potionCount+"            Points: "+playerPoints.ToString();
 	

@@ -28,7 +28,7 @@ public class CanvasScript : MonoBehaviour {
         }
         if (!rayoScript.dead)
         {
-            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n2") + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: "+rayoScript.potionCount.ToString();
+            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n0") + "/" + rayoScript.rayoMaxLife.ToString() + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: "+rayoScript.potionCount.ToString();
         }
         else
         {
