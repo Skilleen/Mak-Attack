@@ -59,6 +59,16 @@
      <Compile Include="Assets\Scripts\ShopScript.cs" />
      <Compile Include="Assets\Scripts\enoch.cs" />
      <Compile Include="Assets\Scripts\panelVisible.cs" />
+     <Compile Include="Assets\Scripts2\BlueGem2.cs" />
+     <Compile Include="Assets\Scripts2\CanvasScript2.cs" />
+     <Compile Include="Assets\Scripts2\DialogPanel2.cs" />
+     <Compile Include="Assets\Scripts2\Knight1Script.cs" />
+     <Compile Include="Assets\Scripts2\Knight2Script.cs" />
+     <Compile Include="Assets\Scripts2\Knight3Script.cs" />
+     <Compile Include="Assets\Scripts2\Knight4Script.cs" />
+     <Compile Include="Assets\Scripts2\RayoScriptLevel2.cs" />
+     <Compile Include="Assets\Scripts2\RedGem2.cs" />
+     <Compile Include="Assets\Scripts2\SecondBossDialog.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
