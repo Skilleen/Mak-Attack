@@ -29,12 +29,12 @@ public class DialogPanel2 : MonoBehaviour {
             button1.interactable = false;
             button2.interactable = false;
         }
-        else if (boss.range <= 5 && PlayerPrefs.GetFloat("score") > 100)
+        else if (boss.range <= 5 && rayoScript.rayoScore > 100)
         {
             button1.interactable = true;
             button2.interactable = true;
         }
-        else if (boss.range <= 5 && PlayerPrefs.GetFloat("score") < 100)
+        else if (boss.range <= 5 && rayoScript.rayoScore < 100)
         {
             button1.interactable = false;
             button2.interactable = true;

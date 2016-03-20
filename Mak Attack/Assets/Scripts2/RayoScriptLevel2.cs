@@ -30,6 +30,7 @@ public class RayoScriptLevel2 : MonoBehaviour {
         rayoScore = PlayerPrefs.GetInt("score");
         rayoDamage = PlayerPrefs.GetFloat("damage");
         potionCount = PlayerPrefs.GetInt("potions");
+        PlayerPrefs.SetInt("level", 2);
     }
 
     // Update is called once per frame
