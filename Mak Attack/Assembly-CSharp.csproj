@@ -69,6 +69,14 @@
      <Compile Include="Assets\Scripts2\RayoScriptLevel2.cs" />
      <Compile Include="Assets\Scripts2\RedGem2.cs" />
      <Compile Include="Assets\Scripts2\SecondBossDialog.cs" />
+     <Compile Include="Assets\Scripts3\CanvasScript3.cs" />
+     <Compile Include="Assets\Scripts3\DialogPanel3.cs" />
+     <Compile Include="Assets\Scripts3\KnightScript1Three.cs" />
+     <Compile Include="Assets\Scripts3\KnightScript2Three.cs" />
+     <Compile Include="Assets\Scripts3\KnightScript3Three.cs" />
+     <Compile Include="Assets\Scripts3\KnightScript4Three.cs" />
+     <Compile Include="Assets\Scripts3\RayoScriptLevel3.cs" />
+     <Compile Include="Assets\Scripts3\ThirdBossDialog.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
