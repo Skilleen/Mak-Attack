@@ -2,7 +2,8 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class DialogPanel2 : MonoBehaviour {
+public class DialogPanel3 : MonoBehaviour
+{
 
     CanvasGroup canvasGroup;
     public Button button1; //Two Dialog buttons.
@@ -20,8 +21,8 @@ public class DialogPanel2 : MonoBehaviour {
 
     void Update()
     {
-        GameObject secondBoss = GameObject.Find("secondBoss");
-        SecondBossDialog boss = secondBoss.GetComponent<SecondBossDialog>();
+        GameObject thirdBoss = GameObject.Find("thirdBoss");
+        ThirdBossDialog boss = thirdBoss.GetComponent<ThirdBossDialog>();
         GameObject Rogue = GameObject.Find("Rogue");
         RayoScriptLevel2 rayoScript = Rogue.GetComponent<RayoScriptLevel2>();
         if (boss.range > 5)
@@ -50,6 +51,5 @@ public class DialogPanel2 : MonoBehaviour {
             Cursor.visible = false;
         }
     }
-
 
 }

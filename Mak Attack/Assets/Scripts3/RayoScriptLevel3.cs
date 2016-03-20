@@ -2,8 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class RayoScriptLevel2 : MonoBehaviour {
-
+public class RayoScriptLevel3 : MonoBehaviour {
     Animator anim;
     public float speed = 3.5f;
     public bool facingRight = true;
@@ -30,7 +29,7 @@ public class RayoScriptLevel2 : MonoBehaviour {
         rayoScore = PlayerPrefs.GetInt("score");
         rayoDamage = PlayerPrefs.GetFloat("damage");
         potionCount = PlayerPrefs.GetInt("potions");
-        PlayerPrefs.SetInt("level", 2);
+        PlayerPrefs.SetInt("level", 3);
     }
 
     // Update is called once per frame
@@ -58,7 +57,7 @@ public class RayoScriptLevel2 : MonoBehaviour {
         if (!dead) //Make sure player is not dead
         {
 
-            if (Input.GetKey(KeyCode.Q) && count <= 0) 
+            if (Input.GetKey(KeyCode.Q) && count <= 0)
             {
                 if (potionCount > 0)
                 {

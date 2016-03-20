@@ -23,6 +23,7 @@ public class RayoScript : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        PlayerPrefs.SetInt("level", 1);
     }
 
     // Update is called once per frame
