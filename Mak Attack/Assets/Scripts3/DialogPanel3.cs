@@ -24,7 +24,7 @@ public class DialogPanel3 : MonoBehaviour
         GameObject thirdBoss = GameObject.Find("thirdBoss");
         ThirdBossDialog boss = thirdBoss.GetComponent<ThirdBossDialog>();
         GameObject Rogue = GameObject.Find("Rogue");
-        RayoScriptLevel2 rayoScript = Rogue.GetComponent<RayoScriptLevel2>();
+        RayoScriptLevel3 rayoScript = Rogue.GetComponent<RayoScriptLevel3>();
         if (boss.range > 5)
         {
             button1.interactable = false;

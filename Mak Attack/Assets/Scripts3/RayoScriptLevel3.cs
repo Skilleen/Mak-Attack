@@ -17,6 +17,8 @@ public class RayoScriptLevel3 : MonoBehaviour {
     private bool knight2Collide = false;
     private bool knight3Collide = false;
     private bool knight4Collide = false;
+    private bool knight5Collide = false;
+    private bool knight6Collide = false;
     public bool art = false;
     private int count = 0;
 
@@ -24,6 +26,7 @@ public class RayoScriptLevel3 : MonoBehaviour {
     void Start()
     {
         anim = GetComponent<Animator>();
+        PlayerPrefs.SetInt("gothotdog", 0);
         rayoLife = PlayerPrefs.GetFloat("health");
         rayoMaxLife = PlayerPrefs.GetInt("maxhealth");
         rayoScore = PlayerPrefs.GetInt("score");
@@ -36,22 +39,28 @@ public class RayoScriptLevel3 : MonoBehaviour {
     void FixedUpdate()
     {
         PlayerPrefs.SetFloat("health", rayoLife);
-        PlayerPrefs.SetFloat("maxhealth", rayoMaxLife);
+        PlayerPrefs.SetInt("maxhealth", rayoMaxLife);
         PlayerPrefs.SetInt("score", rayoScore);
         PlayerPrefs.SetFloat("damage", rayoDamage);
         PlayerPrefs.SetInt("potions", potionCount);
         GameObject Knight1 = GameObject.Find("Knight");
-        Knight1Script Knight1Script = Knight1.GetComponent<Knight1Script>();
+        KnightScript1Three Knight1Script = Knight1.GetComponent<KnightScript1Three>();
         GameObject Knight2 = GameObject.Find("Knight2");
-        Knight2Script Knight2Script = Knight2.GetComponent<Knight2Script>();
+        KnightScript2Three Knight2Script = Knight2.GetComponent<KnightScript2Three>();
         GameObject Knight3 = GameObject.Find("Knight3");
-        Knight3Script Knight3Script = Knight3.GetComponent<Knight3Script>();
+        KnightScript3Three Knight3Script = Knight3.GetComponent<KnightScript3Three>();
         GameObject Knight4 = GameObject.Find("Knight4");
-        Knight4Script Knight4Script = Knight4.GetComponent<Knight4Script>();
+        KnightScript4Three Knight4Script = Knight4.GetComponent<KnightScript4Three>();
+        GameObject Knight5 = GameObject.Find("Knight5");
+        Knight5ScriptThree Knight5Script = Knight5.GetComponent<Knight5ScriptThree>();
+        GameObject Knight6 = GameObject.Find("Knight6");
+        Knight6ScriptThree Knight6Script = Knight6.GetComponent<Knight6ScriptThree>();
         Knight1.GetComponent<SpriteRenderer>().color = Color.white;
         Knight2.GetComponent<SpriteRenderer>().color = Color.white;
         Knight3.GetComponent<SpriteRenderer>().color = Color.white;
         Knight4.GetComponent<SpriteRenderer>().color = Color.white;
+        Knight5.GetComponent<SpriteRenderer>().color = Color.white;
+        Knight6.GetComponent<SpriteRenderer>().color = Color.white;
         anim.SetBool("attack", false);
         anim.SetBool("walk", false); //reset animations on every update
         if (!dead) //Make sure player is not dead
@@ -159,6 +168,21 @@ public class RayoScriptLevel3 : MonoBehaviour {
                         Knight4.GetComponent<SpriteRenderer>().color = Color.red;
                         Knight4Script.knightLife = 0;
                     }
+                    if (knight5Collide && !Knight5Script.knightDead && Knight5Script.doDamage && facingRight != Knight5Script.facingRight)
+                    {
+                        Knight5.GetComponent<SpriteRenderer>().color = Color.red;
+                        Knight5Script.knightLife -= 4;
+                    }
+                    if (knight5Collide && !Knight5Script.knightDead && !Knight5Script.doDamage)
+                    {
+                        Knight5.GetComponent<SpriteRenderer>().color = Color.red;
+                        Knight5Script.knightLife = 0;
+                    }
+                    if (knight6Collide && !Knight6Script.knightDead && Knight6Script.doDamage && facingRight != Knight6Script.facingRight)
+                    {
+                        Knight6.GetComponent<SpriteRenderer>().color = Color.red;
+                        Knight6Script.knightLife -= 4;
+                    }
                 }
             }
         }
@@ -176,6 +200,14 @@ public class RayoScriptLevel3 : MonoBehaviour {
             rayoLife = rayoLife - 0.2f;
         }
         if (Knight4Script.playerHit && Knight4Script.doDamage && !dead)
+        {
+            rayoLife = rayoLife - 0.2f;
+        }
+        if (Knight5Script.playerHit && Knight5Script.doDamage && !dead)
+        {
+            rayoLife = rayoLife - 0.2f;
+        }
+        if (Knight6Script.playerHit && Knight6Script.doDamage && !dead)
         {
             rayoLife = rayoLife - 0.2f;
         }
@@ -205,6 +237,14 @@ public class RayoScriptLevel3 : MonoBehaviour {
         if (col.gameObject.name == "Knight4")
         {
             knight4Collide = true;
+        }
+        if (col.gameObject.name == "Knight5")
+        {
+            knight5Collide = true;
+        }
+        if (col.gameObject.name == "Knight6")
+        {
+            knight6Collide = true;
         }
         if (col.gameObject.name == "BumpForEnoch")
         {

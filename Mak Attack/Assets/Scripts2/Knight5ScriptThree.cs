@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class KnightScript3Three : MonoBehaviour {
+public class Knight5ScriptThree : MonoBehaviour {
 
     public Transform target;
     public float speed = 23f;
@@ -31,8 +31,8 @@ public class KnightScript3Three : MonoBehaviour {
     {
         anim = GetComponent<Animator>();
         startposition = transform.position.x;
-        endpositionX = 90;
-        endpositionY = -20;
+        endpositionX = 50;
+        endpositionY = -38;
     }
 
 
@@ -56,14 +56,14 @@ public class KnightScript3Three : MonoBehaviour {
                 Flip();
                 if (!reversePath)
                 {
-                    endpositionX = 40;
-                    endpositionY = -20;
+                    endpositionX = 10;
+                    endpositionY = -38;
                     reversePath = true;
                 }
                 else
                 {
-                    endpositionX = 90;
-                    endpositionY = -20;
+                    endpositionX = 50;
+                    endpositionY = -38;
                     reversePath = false;
                 }
             }

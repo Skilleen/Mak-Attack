@@ -30,7 +30,7 @@ public class CanvasScript3 : MonoBehaviour {
         }
         if (!rayoScript.dead)
         {
-            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n0") + "/" + rayoScript.rayoMaxLife.ToString() + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: " + rayoScript.potionCount.ToString();
+            instruction.text = "Health: " + rayoScript.rayoLife.ToString() + "/" + rayoScript.rayoMaxLife.ToString() + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: " + rayoScript.potionCount.ToString();
         }
         else
         {

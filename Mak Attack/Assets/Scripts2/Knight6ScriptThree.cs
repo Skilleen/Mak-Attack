@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class KnightScript3Three : MonoBehaviour {
+public class Knight6ScriptThree : MonoBehaviour {
 
     public Transform target;
     public float speed = 23f;
@@ -47,31 +47,9 @@ public class KnightScript3Three : MonoBehaviour {
         }
         float playerposition = target.position.x;
         range = Vector2.Distance(transform.position, target.position);
-        if ((((range > maxDistance) || (target.position.x - transform.position.x > 0 && reversePath) || (transform.position.x - target.position.x > 0 && !reversePath)) && !spotted))
-        {
-            anim.SetBool("walk", true);
-            anim.SetBool("attack", false);
-            if (transform.position.x == endpositionX)
-            {
-                Flip();
-                if (!reversePath)
-                {
-                    endpositionX = 40;
-                    endpositionY = -20;
-                    reversePath = true;
-                }
-                else
-                {
-                    endpositionX = 90;
-                    endpositionY = -20;
-                    reversePath = false;
-                }
-            }
-            transform.position = Vector2.MoveTowards(transform.position, new Vector2(endpositionX, endpositionY), speed * Time.deltaTime);
-        }
 
         //To find and move to the Player
-        else if (!rogueScript.dead)
+        if (!rogueScript.dead)
         {
             spotted = true;
             maxDistance = 50;

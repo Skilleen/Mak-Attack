@@ -47,7 +47,7 @@ private RayoScriptLevel3 rogueScript;
             anim.SetBool("attack", false);
         }
         float playerposition = target.position.x;
-        range = Vector2.Distance(transform.position, target.position);
+        range = Mathf.Abs(Vector2.Distance(transform.position, target.position));
         if ((((range > maxDistance) || (target.position.x - transform.position.x > 0 && reversePath) || (transform.position.x - target.position.x > 0 && !reversePath)) && !spotted))
         {
             anim.SetBool("walk", true);
@@ -88,9 +88,9 @@ private RayoScriptLevel3 rogueScript;
         }
 
 
-        //If Player is in range, start moving towards.
-
-        if (range < maxDistance)
+            //If Player is in range, start moving towards.
+            Debug.LogWarning(range);
+            if (range < maxDistance)
         {
             anim.SetBool("walk", true);
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);

@@ -83,16 +83,23 @@
     <Compile Include="Assets\Scripts2\Knight2Script.cs" />
     <Compile Include="Assets\Scripts2\Knight3Script.cs" />
     <Compile Include="Assets\Scripts2\Knight4Script.cs" />
+    <Compile Include="Assets\Scripts2\Knight5ScriptThree.cs" />
+    <Compile Include="Assets\Scripts2\Knight6ScriptThree.cs" />
     <Compile Include="Assets\Scripts2\RayoScriptLevel2.cs" />
     <Compile Include="Assets\Scripts2\RedGem2.cs" />
     <Compile Include="Assets\Scripts2\SecondBossDialog.cs" />
+    <Compile Include="Assets\Scripts3\BlueGemScript3.cs" />
     <Compile Include="Assets\Scripts3\CanvasScript3.cs" />
     <Compile Include="Assets\Scripts3\DialogPanel3.cs" />
+    <Compile Include="Assets\Scripts3\HotdogScript.cs" />
+    <Compile Include="Assets\Scripts3\HotdogScript2.cs" />
+    <Compile Include="Assets\Scripts3\HotdogScript3.cs" />
     <Compile Include="Assets\Scripts3\KnightScript1Three.cs" />
     <Compile Include="Assets\Scripts3\KnightScript2Three.cs" />
     <Compile Include="Assets\Scripts3\KnightScript3Three.cs" />
     <Compile Include="Assets\Scripts3\KnightScript4Three.cs" />
     <Compile Include="Assets\Scripts3\RayoScriptLevel3.cs" />
+    <Compile Include="Assets\Scripts3\RedGemScript3.cs" />
     <Compile Include="Assets\Scripts3\ThirdBossDialog.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
