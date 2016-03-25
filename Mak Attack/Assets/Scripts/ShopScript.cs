@@ -69,6 +69,14 @@ public class ShopScript : MonoBehaviour {
             {
                 SceneManager.LoadScene("LevelThree");
             }
+            if (currentLevel == 3)
+            {
+                SceneManager.LoadScene("LevelFour");
+            }
+            else if (currentLevel == 4)
+            {
+                SceneManager.LoadScene("LevelFive");
+            }
         }
         yourPoints.text = "Health: "+playerHealth.ToString("n1")+"/" + playerMaxHealth + "         Damage: "+playerDamage+"            Potions: "+potionCount+"            Points: "+playerPoints.ToString();
 	

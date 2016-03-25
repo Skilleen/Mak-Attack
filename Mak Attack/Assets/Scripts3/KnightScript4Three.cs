@@ -24,7 +24,7 @@ public class KnightScript4Three : MonoBehaviour {
     public Rigidbody2D rb;
     public bool facingRight = true;
     private GameObject Rogue;
-    private RayoScriptLevel3 rogueScript;
+    private RayoScriptLevel4 rogueScript;
 
     void Start()
     {
@@ -38,7 +38,7 @@ public class KnightScript4Three : MonoBehaviour {
     void FixedUpdate()
     {
         Rogue = GameObject.Find("Rogue");
-        rogueScript = Rogue.GetComponent<RayoScriptLevel3>();
+        rogueScript = Rogue.GetComponent<RayoScriptLevel4>();
         if (rogueScript.dead)
         {
             anim.SetBool("walk", false);
