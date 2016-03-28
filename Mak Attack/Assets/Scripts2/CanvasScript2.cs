@@ -27,6 +27,11 @@ public class CanvasScript2 : MonoBehaviour {
             rayoScript.rayoScore -= 100;
             bossScript.paymentAccept = false;
             bossPaid = true;
+            PlayerPrefs.SetInt("bossAttack", 2);
+        }
+        else if (bossScript.attackBoss && !bossPaid && bossScript.range < 5)
+        {
+            PlayerPrefs.SetInt("bossAttack", 1);
         }
         if (!rayoScript.dead)
         {

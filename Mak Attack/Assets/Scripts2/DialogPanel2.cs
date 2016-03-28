@@ -24,12 +24,12 @@ public class DialogPanel2 : MonoBehaviour {
         SecondBossDialog boss = secondBoss.GetComponent<SecondBossDialog>();
         GameObject Rogue = GameObject.Find("Rogue");
         RayoScriptLevel2 rayoScript = Rogue.GetComponent<RayoScriptLevel2>();
-        if (boss.range > 5)
+        if (boss.range > 7)
         {
             button1.interactable = false;
             button2.interactable = false;
         }
-        else if (boss.range <= 5 && rayoScript.rayoScore > 100)
+        else if (boss.range <= 5 && rayoScript.rayoScore >= 100)
         {
             button1.interactable = true;
             button2.interactable = true;

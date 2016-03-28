@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\RedGem.cs" />
     <Compile Include="Assets\Scripts\ShopScript.cs" />
     <Compile Include="Assets\Scripts\enoch.cs" />
+    <Compile Include="Assets\Scripts\firstBossScript.cs" />
     <Compile Include="Assets\Scripts\panelVisible.cs" />
     <Compile Include="Assets\Scripts2\BlueGem2.cs" />
     <Compile Include="Assets\Scripts2\CanvasScript2.cs" />
@@ -88,6 +89,7 @@
     <Compile Include="Assets\Scripts2\RayoScriptLevel2.cs" />
     <Compile Include="Assets\Scripts2\RedGem2.cs" />
     <Compile Include="Assets\Scripts2\SecondBossDialog.cs" />
+    <Compile Include="Assets\Scripts2\boss2Script.cs" />
     <Compile Include="Assets\Scripts3\BlueGemScript3.cs" />
     <Compile Include="Assets\Scripts3\CanvasScript3.cs" />
     <Compile Include="Assets\Scripts3\DialogPanel3.cs" />

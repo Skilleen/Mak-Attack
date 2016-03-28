@@ -17,13 +17,16 @@ public class RayoScript : MonoBehaviour
     private bool firstknightCollide = false;
     private bool patrolknightCollide = false;
     private bool patrolknightCollide2 = false;
+    private bool bossCollide = false;
 	public bool art = false;
+    firstBossScript bossScript;
 
     // Use this for initialization
     void Start()
     {
         anim = GetComponent<Animator>();
         PlayerPrefs.SetInt("level", 1);
+        PlayerPrefs.SetInt("bossAttack", 0);
     }
 
     // Update is called once per frame
@@ -40,8 +43,11 @@ public class RayoScript : MonoBehaviour
         KnightScript patrolknightScript = PatrolKnight.GetComponent<KnightScript>();
         GameObject PatrolKnight2 = GameObject.Find("KnightPatrol2");
         KnightScript2 patrolknightScript2 = PatrolKnight2.GetComponent<KnightScript2>();
+        GameObject boss = GameObject.Find("FirstBoss");
+        bossScript = boss.GetComponent<firstBossScript>();
         Knight.GetComponent<SpriteRenderer>().color = Color.white;
         PatrolKnight.GetComponent<SpriteRenderer>().color = Color.white;
+        boss.GetComponent<SpriteRenderer>().color = Color.white;
         //PatrolKnight2.GetComponent<SpriteRenderer>().color = Color.white;
 
         anim.SetBool("attack", false);
@@ -132,6 +138,11 @@ public class RayoScript : MonoBehaviour
                         PatrolKnight2.GetComponent<SpriteRenderer>().color = Color.red;
                         patrolknightScript2.knightLife = 0;
                     }
+                    if (bossCollide && !bossScript.knightDead && PlayerPrefs.GetInt("bossAttack") == 1)
+                    {
+                        boss.GetComponent<SpriteRenderer>().color = Color.red;
+                        bossScript.knightLife -= 2;
+                    }
                 }
             }
         }
@@ -140,6 +151,10 @@ public class RayoScript : MonoBehaviour
             rayoLife = rayoLife - 0.2f;
         }
         if (patrolknightScript2.playerHit && patrolknightScript2.doDamage && !dead)
+        {
+            rayoLife = rayoLife - 0.2f;
+        }
+        if (bossScript.playerHit && bossScript.doDamage && !dead)
         {
             rayoLife = rayoLife - 0.2f;
         }
@@ -166,11 +181,15 @@ public class RayoScript : MonoBehaviour
         {
             patrolknightCollide2 = true;
         }
-		if (col.gameObject.name == "BumpForEnoch")
+        if (col.gameObject.name == "FirstBoss")
+        {
+            bossCollide = true;
+        }
+        if (col.gameObject.name == "BumpForEnoch")
 		{
 			art = true;
     	}
-        if (col.gameObject.name == "levelExit")
+        if (col.gameObject.name == "levelExit" && PlayerPrefs.GetInt("bossAttack") == 2)
         {
             SceneManager.LoadScene("Shop");
         }

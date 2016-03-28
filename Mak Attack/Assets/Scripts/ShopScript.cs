@@ -32,23 +32,23 @@ public class ShopScript : MonoBehaviour {
 	void Update () {
 
         PlayerPrefs.SetInt("score", playerPoints);
-        if (playerPoints >= 50)
+        if (playerPoints >= 100)
         {
             if (rb.mass == 1)
             {
-                playerPoints = playerPoints - 50;
+                playerPoints = playerPoints - 100;
                 playerMaxHealth = playerMaxHealth + 10;
                 rb.mass = 5;
             }
             if (rb.mass == 2)
             {
-                playerPoints = playerPoints - 50;
+                playerPoints = playerPoints - 100;
                 playerDamage = playerDamage + 5;
                 rb.mass = 5;
             }
             if (rb.mass == 3)
             {
-                playerPoints = playerPoints - 50;
+                playerPoints = playerPoints - 100;
                 potionCount = potionCount + 1;
                 rb.mass = 5;
             }

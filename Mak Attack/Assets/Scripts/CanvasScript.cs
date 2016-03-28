@@ -8,7 +8,7 @@ public class CanvasScript : MonoBehaviour {
     public Text instruction;
     public int armourLevel;
     private float timeLeft = 5.0f;
-    private bool bossPaid = false;
+    public bool bossPaid = false;
     // Use this for initialization
     void Start () {
        instruction = GetComponent<Text>();
@@ -25,6 +25,11 @@ public class CanvasScript : MonoBehaviour {
             rayoScript.rayoScore -= 100;
             bossScript.paymentAccept = false;
             bossPaid = true;
+            PlayerPrefs.SetInt("bossAttack", 2);
+        }
+        else if (bossScript.attackBoss && !bossPaid && bossScript.range < 5)
+        {
+            PlayerPrefs.SetInt("bossAttack", 1);
         }
         if (!rayoScript.dead)
         {
