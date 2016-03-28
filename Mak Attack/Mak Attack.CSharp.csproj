@@ -109,6 +109,10 @@
     <Compile Include="Assets\Scripts4\KnightScript3Four.cs" />
     <Compile Include="Assets\Scripts4\KnightScript4Four.cs" />
     <Compile Include="Assets\Scripts4\RayoScriptLevel4.cs" />
+    <Compile Include="Assets\Scripts5\CanvasScript5.cs" />
+    <Compile Include="Assets\Scripts5\DialogPanel5.cs" />
+    <Compile Include="Assets\Scripts5\RayoScriptLevel5.cs" />
+    <Compile Include="Assets\Scripts5\finalBossScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>

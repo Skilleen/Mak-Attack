@@ -1,0 +1,3665 @@
+fileFormatVersion: 2
+guid: edffe50f707d36249853d00cf6fbb81a
+timeCreated: 1459176401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Titan_0
+    21300002: Titan_1
+    21300004: Titan_2
+    21300006: Titan_3
+    21300008: Titan_4
+    21300010: Titan_5
+    21300012: Titan_6
+    21300014: Titan_7
+    21300016: Titan_8
+    21300018: Titan_9
+    21300020: Titan_10
+    21300022: Titan_11
+    21300024: Titan_12
+    21300026: Titan_13
+    21300028: Titan_14
+    21300030: Titan_15
+    21300032: Titan_16
+    21300034: Titan_17
+    21300036: Titan_18
+    21300038: Titan_19
+    21300040: Titan_20
+    21300042: Titan_21
+    21300044: Titan_22
+    21300046: Titan_23
+    21300048: Titan_24
+    21300050: Titan_25
+    21300052: Titan_26
+    21300054: Titan_27
+    21300056: Titan_28
+    21300058: Titan_29
+    21300060: Titan_30
+    21300062: Titan_31
+    21300064: Titan_32
+    21300066: Titan_33
+    21300068: Titan_34
+    21300070: Titan_35
+    21300072: Titan_36
+    21300074: Titan_37
+    21300076: Titan_38
+    21300078: Titan_39
+    21300080: Titan_40
+    21300082: Titan_41
+    21300084: Titan_42
+    21300086: Titan_43
+    21300088: Titan_44
+    21300090: Titan_45
+    21300092: Titan_46
+    21300094: Titan_47
+    21300096: Titan_48
+    21300098: Titan_49
+    21300100: Titan_50
+    21300102: Titan_51
+    21300104: Titan_52
+    21300106: Titan_53
+    21300108: Titan_54
+    21300110: Titan_55
+    21300112: Titan_56
+    21300114: Titan_57
+    21300116: Titan_58
+    21300118: Titan_59
+    21300120: Titan_60
+    21300122: Titan_61
+    21300124: Titan_62
+    21300126: Titan_63
+    21300128: Titan_64
+    21300130: Titan_65
+    21300132: Titan_66
+    21300134: Titan_67
+    21300136: Titan_68
+    21300138: Titan_69
+    21300140: Titan_70
+    21300142: Titan_71
+    21300144: Titan_72
+    21300146: Titan_73
+    21300148: Titan_74
+    21300150: Titan_75
+    21300152: Titan_76
+    21300154: Titan_77
+    21300156: Titan_78
+    21300158: Titan_79
+    21300160: Titan_80
+    21300162: Titan_81
+    21300164: Titan_82
+    21300166: Titan_83
+    21300168: Titan_84
+    21300170: Titan_85
+    21300172: Titan_86
+    21300174: Titan_87
+    21300176: Titan_88
+    21300178: Titan_89
+    21300180: Titan_90
+    21300182: Titan_91
+    21300184: Titan_92
+    21300186: Titan_93
+    21300188: Titan_94
+    21300190: Titan_95
+    21300192: Titan_96
+    21300194: Titan_97
+    21300196: Titan_98
+    21300198: Titan_99
+    21300200: Titan_100
+    21300202: Titan_101
+    21300204: Titan_102
+    21300206: Titan_103
+    21300208: Titan_104
+    21300210: Titan_105
+    21300212: Titan_106
+    21300214: Titan_107
+    21300216: Titan_108
+    21300218: Titan_109
+    21300220: Titan_110
+    21300222: Titan_111
+    21300224: Titan_112
+    21300226: Titan_113
+    21300228: Titan_114
+    21300230: Titan_115
+    21300232: Titan_116
+    21300234: Titan_117
+    21300236: Titan_118
+    21300238: Titan_119
+    21300240: Titan_120
+    21300242: Titan_121
+    21300244: Titan_122
+    21300246: Titan_123
+    21300248: Titan_124
+    21300250: Titan_125
+    21300252: Titan_126
+    21300254: Titan_127
+    21300256: Titan_128
+    21300258: Titan_129
+    21300260: Titan_130
+    21300262: Titan_131
+    21300264: Titan_132
+    21300266: Titan_133
+    21300268: Titan_134
+    21300270: Titan_135
+    21300272: Titan_136
+    21300274: Titan_137
+    21300276: Titan_138
+    21300278: Titan_139
+    21300280: Titan_140
+    21300282: Titan_141
+    21300284: Titan_142
+    21300286: Titan_143
+    21300288: Titan_144
+    21300290: Titan_145
+    21300292: Titan_146
+    21300294: Titan_147
+    21300296: Titan_148
+    21300298: Titan_149
+    21300300: Titan_150
+    21300302: Titan_151
+    21300304: Titan_152
+    21300306: Titan_153
+    21300308: Titan_154
+    21300310: Titan_155
+    21300312: Titan_156
+    21300314: Titan_157
+    21300316: Titan_158
+    21300318: Titan_159
+    21300320: Titan_160
+    21300322: Titan_161
+    21300324: Titan_162
+    21300326: Titan_163
+    21300328: Titan_164
+    21300330: Titan_165
+    21300332: Titan_166
+    21300334: Titan_167
+    21300336: Titan_168
+    21300338: Titan_169
+    21300340: Titan_170
+    21300342: Titan_171
+    21300344: Titan_172
+    21300346: Titan_173
+    21300348: Titan_174
+    21300350: Titan_175
+    21300352: Titan_176
+    21300354: Titan_177
+    21300356: Titan_178
+    21300358: Titan_179
+    21300360: Titan_180
+    21300362: Titan_181
+    21300364: Titan_182
+    21300366: Titan_183
+    21300368: Titan_184
+    21300370: Titan_185
+    21300372: Titan_186
+    21300374: Titan_187
+    21300376: Titan_188
+    21300378: Titan_189
+    21300380: Titan_190
+    21300382: Titan_191
+    21300384: Titan_192
+    21300386: Titan_193
+    21300388: Titan_194
+    21300390: Titan_195
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Titan_0
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 788
+        width: 35
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 54}
+        - {x: -17.5, y: 54}
+        - {x: -17.5, y: -53}
+        - {x: -15.5, y: -54}
+        - {x: 17.5, y: -54}
+        - {x: 17.5, y: 36}
+        - {x: 16.5, y: 52}
+    - name: Titan_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 787
+        width: 37
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 57}
+        - {x: -18.5, y: 40}
+        - {x: -18.5, y: -44}
+        - {x: -12.5, y: -57}
+        - {x: 18.5, y: -57}
+        - {x: 18.5, y: 45}
+        - {x: 13.5, y: 57}
+    - name: Titan_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 768
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -47}
+        - {x: 25.5, y: -39}
+        - {x: 25.5, y: 50}
+        - {x: 21.5, y: 48}
+        - {x: 18.5, y: 46}
+        - {x: 21.5, y: 49}
+        - {x: 19.5, y: 52}
+        - {x: 15.5, y: 52}
+        - {x: 17.5, y: 52}
+        - {x: 21.5, y: 54}
+        - {x: 15.5, y: 63}
+        - {x: -8.5, y: 63}
+        - {x: -25.5, y: 55}
+        - {x: -25.5, y: -63}
+        - {x: 6.5, y: -63}
+        - {x: 14.5, y: -60}
+        - {x: 13.5, y: -55}
+        - {x: 10.5, y: -50}
+    - name: Titan_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 888
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_4
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 891
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 787
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 51.5}
+        - {x: -21, y: 48.5}
+        - {x: -22, y: 45.5}
+        - {x: -22, y: -51.5}
+        - {x: 22, y: -51.5}
+        - {x: 22, y: 51.5}
+    - name: Titan_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 787
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 51.5}
+        - {x: -22.5, y: 43.5}
+        - {x: -22.5, y: -51.5}
+        - {x: 22.5, y: -51.5}
+        - {x: 22.5, y: 51.5}
+    - name: Titan_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 787
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 51.5}
+        - {x: -22.5, y: 40.5}
+        - {x: -22.5, y: -51.5}
+        - {x: 19.5, y: -51.5}
+        - {x: 22.5, y: -47.5}
+        - {x: 22.5, y: 51.5}
+    - name: Titan_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 787
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -18.5}
+        - {x: 20, y: -17.5}
+        - {x: 22, y: -14.5}
+        - {x: 22, y: 48.5}
+        - {x: 13, y: 51.5}
+        - {x: -14, y: 51.5}
+        - {x: -19, y: 50.5}
+        - {x: -22, y: 45.5}
+        - {x: -22, y: -51.5}
+        - {x: 22, y: -51.5}
+    - name: Titan_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 787
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 51.5}
+        - {x: 13.5, y: 51.5}
+        - {x: 2.5, y: 47.5}
+        - {x: 2.5, y: 40.5}
+        - {x: 2.5, y: 44.5}
+        - {x: 0.5, y: 46.5}
+        - {x: 2.5, y: 50.5}
+        - {x: 0.5, y: 51.5}
+        - {x: -19.5, y: 51.5}
+        - {x: -25.5, y: 33.5}
+        - {x: -25.5, y: -51.5}
+        - {x: 11.5, y: -51.5}
+        - {x: 11.5, y: -45.5}
+        - {x: 25.5, y: -32.5}
+      - - {x: 22.5, y: -24.5}
+        - {x: 24.5, y: -26.5}
+        - {x: 25.5, y: -26.5}
+        - {x: 25.5, y: -21.5}
+        - {x: 23.5, y: -21.5}
+    - name: Titan_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 787
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 51.5}
+        - {x: -26, y: 23.5}
+        - {x: -26, y: -51.5}
+        - {x: 26, y: -51.5}
+        - {x: 26, y: 51.5}
+    - name: Titan_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 787
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 51.5}
+        - {x: -25, y: 33.5}
+        - {x: -25, y: -51.5}
+        - {x: 25, y: -51.5}
+        - {x: 25, y: 51.5}
+    - name: Titan_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 787
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 52}
+        - {x: 2, y: 46}
+        - {x: 0, y: 52}
+        - {x: -17, y: 52}
+        - {x: -26, y: 32}
+        - {x: -26, y: -52}
+        - {x: 17, y: -52}
+        - {x: 24, y: -34}
+        - {x: 26, y: -11}
+        - {x: 26, y: 52}
+    - name: Titan_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 769
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 52.5}
+        - {x: -18, y: 52.5}
+        - {x: -21, y: 43.5}
+        - {x: -21, y: -52.5}
+        - {x: 10, y: -52.5}
+        - {x: 17, y: -50.5}
+        - {x: 15, y: -46.5}
+        - {x: 12, y: -43.5}
+        - {x: 21, y: -37.5}
+    - name: Titan_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 768
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -17}
+        - {x: 21.5, y: -8}
+        - {x: 21.5, y: 54}
+        - {x: 20.5, y: 55}
+        - {x: -7.5, y: 55}
+        - {x: -21.5, y: 51}
+        - {x: -21.5, y: -54}
+        - {x: -20.5, y: -55}
+        - {x: 15.5, y: -55}
+        - {x: 18.5, y: -52}
+        - {x: 21.5, y: -35}
+        - {x: 21.5, y: -17}
+    - name: Titan_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 768
+        width: 47
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -17.5}
+        - {x: 23.5, y: 13.5}
+        - {x: 23.5, y: 57.5}
+        - {x: 3.5, y: 57.5}
+        - {x: -0.5, y: 52.5}
+        - {x: -10.5, y: 47.5}
+        - {x: -21.5, y: 33.5}
+        - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: -57.5}
+        - {x: 17.5, y: -57.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 19.5, y: -16.5}
+      - - {x: -2.5, y: 48.5}
+        - {x: 0.5, y: 49.5}
+        - {x: 0.5, y: 52.5}
+        - {x: -2.5, y: 53.5}
+        - {x: -4.5, y: 51.5}
+    - name: Titan_16
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 869
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 831
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -20.5}
+        - {x: -12, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 23, y: 19.5}
+        - {x: 5, y: 29.5}
+    - name: Titan_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 838
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -5.5}
+        - {x: 21, y: -1.5}
+        - {x: 21, y: 5.5}
+        - {x: 15, y: 16.5}
+        - {x: 2, y: 25.5}
+        - {x: -16, y: 25.5}
+        - {x: -17, y: 22.5}
+        - {x: -21, y: 9.5}
+        - {x: -21, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: -7.5}
+        - {x: 18, y: -3.5}
+    - name: Titan_19
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 846
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 19}
+        - {x: -23, y: 12}
+        - {x: -25, y: 10}
+        - {x: -25, y: -17}
+        - {x: -24, y: -19}
+        - {x: -4, y: -19}
+        - {x: 25, y: 11}
+        - {x: 25, y: 19}
+    - name: Titan_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 850
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_21
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 856
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_22
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 852
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_23
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 752
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -12}
+        - {x: 30.5, y: 5}
+        - {x: 30.5, y: 20}
+        - {x: -27.5, y: 20}
+        - {x: -30.5, y: 17}
+        - {x: -30.5, y: -9}
+        - {x: -17.5, y: -20}
+        - {x: 1.5, y: -20}
+        - {x: 2.5, y: -13}
+        - {x: 13.5, y: -20}
+        - {x: 19.5, y: -20}
+    - name: Titan_24
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 788
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_25
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 761
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -21}
+        - {x: 28.5, y: -6}
+        - {x: 28.5, y: 3}
+        - {x: 17.5, y: 21}
+        - {x: -28.5, y: 21}
+        - {x: -28.5, y: -21}
+    - name: Titan_26
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 760
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 29}
+        - {x: -33.5, y: 13}
+        - {x: -33.5, y: -12}
+        - {x: -9.5, y: -29}
+        - {x: 24.5, y: -29}
+        - {x: 33.5, y: -24}
+        - {x: 33.5, y: 29}
+    - name: Titan_27
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 776
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 781
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_29
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -6}
+        - {x: -7, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 6}
+        - {x: 14, y: 13}
+    - name: Titan_30
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 748
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 637
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 51.5}
+        - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: -51.5}
+        - {x: 10.5, y: -51.5}
+        - {x: 26.5, y: -40.5}
+        - {x: 26.5, y: 51.5}
+    - name: Titan_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 638
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -33}
+        - {x: 17, y: -33}
+        - {x: 29, y: -30}
+        - {x: 29, y: 24}
+        - {x: 25, y: 39}
+        - {x: 2, y: 51}
+        - {x: -25, y: 51}
+        - {x: -29, y: 41}
+        - {x: -29, y: -48}
+        - {x: -26, y: -51}
+        - {x: 0, y: -51}
+        - {x: 29, y: -40}
+        - {x: 29, y: -32}
+        - {x: 24, y: -33}
+    - name: Titan_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 636
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51.5}
+        - {x: -17, y: 45.5}
+        - {x: -29, y: 10.5}
+        - {x: -29, y: -11.5}
+        - {x: -24, y: -17.5}
+        - {x: -18, y: -16.5}
+        - {x: -17, y: -15.5}
+        - {x: -12, y: -15.5}
+        - {x: -13, y: -15.5}
+        - {x: -29, y: -28.5}
+        - {x: -29, y: -42.5}
+        - {x: -26, y: -48.5}
+        - {x: -16, y: -51.5}
+        - {x: 29, y: -51.5}
+        - {x: 29, y: 28.5}
+        - {x: 19, y: 51.5}
+    - name: Titan_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 635
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 51.5}
+        - {x: -10.5, y: 51.5}
+        - {x: -14.5, y: 50.5}
+        - {x: -29.5, y: 24.5}
+        - {x: -29.5, y: -44.5}
+        - {x: -1.5, y: -51.5}
+        - {x: 19.5, y: -51.5}
+        - {x: 19.5, y: -50.5}
+        - {x: 29.5, y: -48.5}
+        - {x: 29.5, y: 32.5}
+    - name: Titan_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 636
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -46}
+        - {x: -23.5, y: -52}
+        - {x: 28.5, y: -52}
+        - {x: 28.5, y: 8}
+        - {x: 14.5, y: 49}
+        - {x: 7.5, y: 52}
+        - {x: -20.5, y: 52}
+        - {x: -28.5, y: 22}
+    - name: Titan_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 636
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -39.5}
+        - {x: 29.5, y: 16.5}
+        - {x: 23.5, y: 16.5}
+        - {x: 14.5, y: 12.5}
+        - {x: -4.5, y: 45.5}
+        - {x: -9.5, y: 52.5}
+        - {x: -27.5, y: 52.5}
+        - {x: -29.5, y: 45.5}
+        - {x: -29.5, y: -47.5}
+        - {x: -25.5, y: -52.5}
+        - {x: -6.5, y: -52.5}
+        - {x: -4.5, y: -50.5}
+        - {x: -4.5, y: -49.5}
+        - {x: 26.5, y: -40.5}
+    - name: Titan_37
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 636
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 52}
+        - {x: -32.5, y: -52}
+        - {x: 23.5, y: -52}
+        - {x: 32.5, y: -51}
+        - {x: 32.5, y: 48}
+        - {x: 24.5, y: 52}
+    - name: Titan_38
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 637
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 50.5}
+        - {x: -35, y: -0.5}
+        - {x: -35, y: -50.5}
+        - {x: 26, y: -50.5}
+        - {x: 35, y: -32.5}
+        - {x: 35, y: 50.5}
+    - name: Titan_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 638
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 15.5}
+        - {x: 36, y: 48.5}
+        - {x: 28, y: 50.5}
+        - {x: -20, y: 50.5}
+        - {x: -36, y: 1.5}
+        - {x: -36, y: -50.5}
+        - {x: 18, y: -50.5}
+        - {x: 36, y: -28.5}
+        - {x: 36, y: -21.5}
+        - {x: 34, y: -21.5}
+    - name: Titan_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 639
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 47.5}
+        - {x: 11.5, y: 35.5}
+        - {x: 6.5, y: 43.5}
+        - {x: 0.5, y: 50.5}
+        - {x: -12.5, y: 50.5}
+        - {x: -19.5, y: 42.5}
+        - {x: -26.5, y: -7.5}
+        - {x: -26.5, y: -50.5}
+        - {x: 26.5, y: -50.5}
+        - {x: 26.5, y: 48.5}
+        - {x: 24.5, y: 49.5}
+    - name: Titan_41
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 716
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_42
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 716
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_43
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 716
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 716
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_45
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 675
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -12.5}
+        - {x: 23, y: 15.5}
+        - {x: 7, y: 28.5}
+        - {x: -23, y: 28.5}
+        - {x: -23, y: -21.5}
+        - {x: -20, y: -28.5}
+        - {x: 22, y: -28.5}
+        - {x: 23, y: -27.5}
+        - {x: 23, y: -19.5}
+        - {x: 19, y: -16.5}
+    - name: Titan_46
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 679
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -4.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 7.5, y: 25.5}
+        - {x: -14.5, y: 25.5}
+        - {x: -15.5, y: 23.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -14.5, y: -3.5}
+        - {x: -13.5, y: -3.5}
+        - {x: -8.5, y: 1.5}
+        - {x: -6.5, y: -6.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -7.5, y: -25.5}
+        - {x: 12.5, y: -25.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: -4.5}
+    - name: Titan_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 676
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 32.5}
+        - {x: -3.5, y: 20.5}
+        - {x: -5.5, y: 12.5}
+        - {x: -14.5, y: 2.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 12.5, y: -32.5}
+        - {x: 16.5, y: -25.5}
+        - {x: 16.5, y: 28.5}
+        - {x: 14.5, y: 32.5}
+    - name: Titan_48
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 705
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_49
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 698
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_50
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_51
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 698
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_52
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_53
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_54
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_55
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_56
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 698
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_57
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 698
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 695
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_59
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 698
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_60
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 698
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_61
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_62
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_63
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 698
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_64
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 698
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_65
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_66
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 695
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_67
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_68
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 698
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_69
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 698
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_70
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 698
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_71
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 706
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_72
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 697
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_73
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 680
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_74
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 680
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_75
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 678
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_76
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 680
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_77
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 680
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_78
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 680
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_79
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 680
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_80
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 680
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_81
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 680
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_82
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 691
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_83
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 680
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_84
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 680
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_85
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 677
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_86
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 680
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_87
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 680
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_88
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 680
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_89
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 625
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -29, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 32}
+    - name: Titan_90
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 676
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_91
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 669
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_92
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 656
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 486
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -61}
+        - {x: 55, y: -61}
+        - {x: 55, y: 39}
+        - {x: 45, y: 36}
+        - {x: 38, y: 24}
+        - {x: 19, y: 47}
+        - {x: -17, y: 61}
+        - {x: -28, y: 61}
+        - {x: -29, y: 59}
+        - {x: -34, y: 61}
+        - {x: -45, y: 61}
+        - {x: -52, y: 46}
+        - {x: -55, y: 40}
+        - {x: -55, y: 28}
+        - {x: -15, y: 8}
+        - {x: -47, y: -31}
+        - {x: -46, y: -33}
+        - {x: -47, y: -31}
+        - {x: -48, y: -28}
+        - {x: -55, y: -27}
+        - {x: -55, y: -39}
+        - {x: -9, y: -61}
+        - {x: 30, y: -61}
+        - {x: 28, y: -58}
+        - {x: 27, y: -56}
+        - {x: 31, y: -59}
+    - name: Titan_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 486
+        width: 96
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 65.5}
+        - {x: -48, y: 57.5}
+        - {x: -48, y: -59.5}
+        - {x: -45, y: -65.5}
+        - {x: 43, y: -65.5}
+        - {x: 48, y: -40.5}
+        - {x: 48, y: 65.5}
+      - - {x: -39, y: -32.5}
+        - {x: -36, y: -31.5}
+        - {x: -36, y: -28.5}
+        - {x: -39, y: -27.5}
+        - {x: -41, y: -29.5}
+      - - {x: 40, y: -32.5}
+        - {x: 43, y: -31.5}
+        - {x: 43, y: -28.5}
+        - {x: 40, y: -27.5}
+        - {x: 38, y: -29.5}
+      - - {x: -48, y: -22.5}
+        - {x: -45, y: -22.5}
+        - {x: -43, y: -20.5}
+        - {x: -44, y: -17.5}
+        - {x: -48, y: -17.5}
+      - - {x: -42, y: -19.5}
+        - {x: -41, y: -22.5}
+        - {x: -38, y: -22.5}
+        - {x: -36, y: -20.5}
+        - {x: -37, y: -17.5}
+        - {x: -40, y: -17.5}
+      - - {x: -30, y: -21.5}
+        - {x: -28, y: -22.5}
+        - {x: -25, y: -21.5}
+        - {x: -25, y: -17.5}
+        - {x: -26, y: -14.5}
+        - {x: -29, y: -14.5}
+        - {x: -30, y: -16.5}
+      - - {x: -22, y: -18.5}
+        - {x: -19, y: -17.5}
+        - {x: -19, y: -14.5}
+        - {x: -22, y: -13.5}
+        - {x: -24, y: -15.5}
+      - - {x: -10, y: -16.5}
+        - {x: -7, y: -15.5}
+        - {x: -7, y: -12.5}
+        - {x: -10, y: -11.5}
+        - {x: -12, y: -13.5}
+    - name: Titan_95
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 485
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -21.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 17.5, y: -30.5}
+        - {x: 23.5, y: -14.5}
+        - {x: 39.5, y: -15.5}
+        - {x: 39.5, y: 59.5}
+        - {x: 32.5, y: 61.5}
+        - {x: -22.5, y: 61.5}
+        - {x: -17.5, y: 50.5}
+        - {x: -39.5, y: 11.5}
+        - {x: -39.5, y: -2.5}
+        - {x: -36.5, y: -3.5}
+        - {x: -32.5, y: -4.5}
+        - {x: -39.5, y: -28.5}
+        - {x: -39.5, y: -36.5}
+        - {x: -38.5, y: -37.5}
+        - {x: -35.5, y: -37.5}
+        - {x: -29.5, y: -60.5}
+        - {x: -25.5, y: -61.5}
+        - {x: 11.5, y: -61.5}
+        - {x: 33.5, y: -30.5}
+        - {x: 29.5, y: -19.5}
+      - - {x: 33.5, y: -22.5}
+        - {x: 36.5, y: -21.5}
+        - {x: 36.5, y: -18.5}
+        - {x: 33.5, y: -17.5}
+        - {x: 31.5, y: -19.5}
+      - - {x: 36.5, y: -19.5}
+        - {x: 38.5, y: -21.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 39.5, y: -16.5}
+        - {x: 37.5, y: -16.5}
+      - - {x: -24.5, y: 60.5}
+        - {x: -31.5, y: 57.5}
+        - {x: -32.5, y: 56.5}
+        - {x: -32.5, y: 53.5}
+        - {x: -29.5, y: 49.5}
+        - {x: -24.5, y: 49.5}
+        - {x: -17.5, y: 51.5}
+        - {x: -16.5, y: 55.5}
+        - {x: -16.5, y: 59.5}
+        - {x: -17.5, y: 60.5}
+    - name: Titan_96
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 605
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -16, y: 5}
+        - {x: -16, y: -10}
+        - {x: -5, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 24}
+    - name: Titan_97
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 605
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 6}
+        - {x: -20.5, y: -11}
+        - {x: -5.5, y: -24}
+        - {x: 20.5, y: -24}
+        - {x: 20.5, y: -1}
+        - {x: 17.5, y: 24}
+        - {x: -5.5, y: 24}
+        - {x: -16.5, y: 17}
+    - name: Titan_98
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 605
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24}
+        - {x: -17.5, y: 17}
+        - {x: -17.5, y: -15}
+        - {x: -3.5, y: -24}
+        - {x: 17.5, y: -24}
+        - {x: 17.5, y: 24}
+    - name: Titan_99
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 605
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 24}
+        - {x: -17.5, y: 9}
+        - {x: -17.5, y: -10}
+        - {x: -11.5, y: -13}
+        - {x: -8.5, y: -12}
+        - {x: -2.5, y: -23}
+        - {x: -0.5, y: -24}
+        - {x: 17.5, y: -24}
+        - {x: 17.5, y: 19}
+        - {x: 16.5, y: 24}
+    - name: Titan_100
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 605
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24}
+        - {x: -19.5, y: 18}
+        - {x: -19.5, y: -12}
+        - {x: -4.5, y: -24}
+        - {x: 19.5, y: -24}
+        - {x: 19.5, y: 9}
+        - {x: 14.5, y: 24}
+    - name: Titan_101
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 486
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 58}
+        - {x: -34.5, y: -44}
+        - {x: -33.5, y: -46}
+        - {x: -21.5, y: -58}
+        - {x: 21.5, y: -58}
+        - {x: 34.5, y: -37}
+        - {x: 34.5, y: 26}
+        - {x: -15.5, y: 58}
+    - name: Titan_102
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 579
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 582
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_104
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 486
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -22.5}
+        - {x: 30.5, y: -9.5}
+        - {x: 33.5, y: -1.5}
+        - {x: 33.5, y: 30.5}
+        - {x: 25.5, y: 40.5}
+        - {x: 6.5, y: 45.5}
+        - {x: 3.5, y: 35.5}
+        - {x: 3.5, y: 39.5}
+        - {x: -2.5, y: 49.5}
+        - {x: -20.5, y: 49.5}
+        - {x: -33.5, y: 24.5}
+        - {x: -33.5, y: -49.5}
+        - {x: 7.5, y: -49.5}
+        - {x: 23.5, y: -34.5}
+        - {x: 29.5, y: -26.5}
+        - {x: 27.5, y: -21.5}
+      - - {x: 12.5, y: -17.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 15.5, y: -13.5}
+        - {x: 12.5, y: -12.5}
+        - {x: 10.5, y: -14.5}
+      - - {x: 9.5, y: 48.5}
+        - {x: 6.5, y: 47.5}
+        - {x: 6.5, y: 43.5}
+        - {x: 7.5, y: 40.5}
+        - {x: 14.5, y: 37.5}
+        - {x: 17.5, y: 37.5}
+        - {x: 17.5, y: 47.5}
+        - {x: 16.5, y: 48.5}
+      - - {x: 8.5, y: 47.5}
+        - {x: 8.5, y: 49.5}
+        - {x: 3.5, y: 49.5}
+        - {x: 5.5, y: 46.5}
+    - name: Titan_105
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 486
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 51}
+        - {x: -25.5, y: 47}
+        - {x: -28.5, y: 19}
+        - {x: -28.5, y: -51}
+        - {x: 14.5, y: -51}
+        - {x: 28.5, y: -29}
+        - {x: 28.5, y: 48}
+        - {x: 16.5, y: 51}
+    - name: Titan_106
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 477
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -42.5}
+        - {x: 29, y: -28.5}
+        - {x: 29, y: -21.5}
+        - {x: 21, y: -22.5}
+        - {x: 10, y: -27.5}
+        - {x: 29, y: 27.5}
+        - {x: 29, y: 28.5}
+        - {x: 26, y: 39.5}
+        - {x: 12, y: 28.5}
+        - {x: -4, y: 51.5}
+        - {x: -29, y: 51.5}
+        - {x: -29, y: -51.5}
+        - {x: 2, y: -51.5}
+        - {x: 5, y: -50.5}
+        - {x: 7, y: -48.5}
+        - {x: 7, y: -45.5}
+    - name: Titan_107
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 477
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 53.5}
+        - {x: -36, y: 48.5}
+        - {x: -35, y: 45.5}
+        - {x: -34, y: 43.5}
+        - {x: -35, y: 44.5}
+        - {x: -38, y: 44.5}
+        - {x: -41, y: 41.5}
+        - {x: -44, y: 22.5}
+        - {x: -44, y: 14.5}
+        - {x: -41, y: 13.5}
+        - {x: -44, y: -12.5}
+        - {x: -44, y: -24.5}
+        - {x: -18, y: -53.5}
+        - {x: 23, y: -53.5}
+        - {x: 44, y: -33.5}
+        - {x: 44, y: 38.5}
+        - {x: 28, y: 53.5}
+    - name: Titan_108
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 477
+        width: 72
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -62.5}
+        - {x: 36, y: -62.5}
+        - {x: 36, y: 26.5}
+        - {x: 26, y: 62.5}
+        - {x: -31, y: 62.5}
+        - {x: -36, y: 57.5}
+    - name: Titan_109
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 477
+        width: 55
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 54.5}
+        - {x: -27.5, y: -54.5}
+        - {x: 22.5, y: -54.5}
+        - {x: 27.5, y: -52.5}
+        - {x: 27.5, y: 54.5}
+    - name: Titan_110
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 477
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -13.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 36.5, y: 38.5}
+        - {x: 36.5, y: 45.5}
+        - {x: 20.5, y: 50.5}
+        - {x: -21.5, y: 50.5}
+        - {x: -36.5, y: 29.5}
+        - {x: -36.5, y: -50.5}
+        - {x: 17.5, y: -50.5}
+        - {x: 21.5, y: -44.5}
+        - {x: 20.5, y: -41.5}
+        - {x: 36.5, y: -20.5}
+    - name: Titan_111
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 477
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -30}
+        - {x: 19, y: -30}
+        - {x: 16, y: -31}
+        - {x: 7, y: -29}
+        - {x: 29, y: -30}
+        - {x: 29, y: 23}
+        - {x: 27, y: 31}
+        - {x: 3, y: 51}
+        - {x: -27, y: 51}
+        - {x: -29, y: 45}
+        - {x: -29, y: -51}
+        - {x: 4, y: -51}
+        - {x: 7, y: -50}
+        - {x: 9, y: -48}
+        - {x: 27, y: -37}
+        - {x: 29, y: -35}
+    - name: Titan_112
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 493
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 330
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 62.5}
+        - {x: -33, y: -5.5}
+        - {x: -19, y: -11.5}
+        - {x: -23, y: -28.5}
+        - {x: -22, y: -28.5}
+        - {x: -26, y: -26.5}
+        - {x: -33, y: -26.5}
+        - {x: -33, y: -62.5}
+        - {x: 33, y: -62.5}
+        - {x: 33, y: 42.5}
+        - {x: -18, y: 62.5}
+    - name: Titan_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 330
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -7}
+        - {x: 58, y: 22}
+        - {x: 32, y: 38}
+        - {x: 15, y: 44}
+        - {x: 8, y: 35}
+        - {x: 6, y: 28}
+        - {x: -9, y: 35}
+        - {x: -15, y: 41}
+        - {x: -11, y: 39}
+        - {x: -4, y: 39}
+        - {x: -1, y: 44}
+        - {x: -23, y: 63}
+        - {x: -50, y: 63}
+        - {x: -58, y: 60}
+        - {x: -58, y: -48}
+        - {x: -36, y: -63}
+        - {x: 58, y: -63}
+        - {x: 58, y: -37}
+        - {x: 52, y: -35}
+      - - {x: -32, y: -29}
+        - {x: -29, y: -28}
+        - {x: -29, y: -25}
+        - {x: -32, y: -24}
+        - {x: -34, y: -26}
+    - name: Titan_115
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 428
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_116
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 330
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 55}
+        - {x: -57.5, y: 1}
+        - {x: -55.5, y: -8}
+        - {x: -38.5, y: -55}
+        - {x: 57.5, y: -55}
+        - {x: 57.5, y: 51}
+        - {x: 24.5, y: 55}
+      - - {x: -43.5, y: -38}
+        - {x: -40.5, y: -37}
+        - {x: -40.5, y: -34}
+        - {x: -43.5, y: -33}
+        - {x: -45.5, y: -35}
+      - - {x: 26.5, y: -36}
+        - {x: 29.5, y: -35}
+        - {x: 29.5, y: -32}
+        - {x: 26.5, y: -31}
+        - {x: 24.5, y: -33}
+      - - {x: -36.5, y: -34}
+        - {x: -33.5, y: -33}
+        - {x: -33.5, y: -30}
+        - {x: -36.5, y: -29}
+        - {x: -38.5, y: -31}
+      - - {x: 29.5, y: -30}
+        - {x: 30.5, y: -33}
+        - {x: 33.5, y: -33}
+        - {x: 35.5, y: -31}
+        - {x: 34.5, y: -28}
+        - {x: 31.5, y: -28}
+      - - {x: 22.5, y: -32}
+        - {x: 25.5, y: -31}
+        - {x: 25.5, y: -28}
+        - {x: 22.5, y: -27}
+        - {x: 20.5, y: -29}
+      - - {x: 17.5, y: -31}
+        - {x: 20.5, y: -30}
+        - {x: 20.5, y: -27}
+        - {x: 17.5, y: -26}
+        - {x: 15.5, y: -28}
+      - - {x: -39.5, y: -29}
+        - {x: -36.5, y: -28}
+        - {x: -36.5, y: -25}
+        - {x: -39.5, y: -24}
+        - {x: -41.5, y: -26}
+      - - {x: -57.5, y: -26}
+        - {x: -54.5, y: -25}
+        - {x: -54.5, y: -22}
+        - {x: -56.5, y: -20}
+        - {x: -57.5, y: -20}
+    - name: Titan_117
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 330
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 28.5}
+        - {x: 26, y: 28.5}
+        - {x: 27, y: 30.5}
+        - {x: 27, y: 40.5}
+        - {x: 15, y: 47.5}
+        - {x: 2, y: 46.5}
+        - {x: 0, y: 45.5}
+        - {x: -3, y: 38.5}
+        - {x: 0, y: 32.5}
+        - {x: -2, y: 30.5}
+        - {x: -4, y: 23.5}
+        - {x: 2, y: 10.5}
+        - {x: 18, y: 2.5}
+        - {x: 19, y: 2.5}
+        - {x: 21, y: -3.5}
+        - {x: 20, y: -0.5}
+        - {x: 18, y: 2.5}
+        - {x: 14, y: 1.5}
+        - {x: -10, y: 14.5}
+        - {x: -2, y: 31.5}
+        - {x: -2, y: 35.5}
+        - {x: -4, y: 40.5}
+        - {x: 0, y: 44.5}
+        - {x: 0, y: 45.5}
+        - {x: -2, y: 47.5}
+        - {x: -5, y: 49.5}
+        - {x: -22, y: 49.5}
+        - {x: -41, y: 28.5}
+        - {x: -48, y: 21.5}
+        - {x: -48, y: 7.5}
+        - {x: -47, y: 5.5}
+        - {x: -48, y: 0.5}
+        - {x: -48, y: -51.5}
+        - {x: 47, y: -51.5}
+        - {x: 48, y: -48.5}
+        - {x: 48, y: 4.5}
+        - {x: 40, y: 27.5}
+      - - {x: -37, y: 47.5}
+        - {x: -34, y: 48.5}
+        - {x: -34, y: 51.5}
+        - {x: -38, y: 51.5}
+        - {x: -39, y: 50.5}
+      - - {x: -20, y: 49.5}
+        - {x: -20, y: 51.5}
+        - {x: -25, y: 51.5}
+        - {x: -23, y: 48.5}
+    - name: Titan_118
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 330
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -31.5}
+        - {x: 17, y: -32.5}
+        - {x: 8, y: -33.5}
+        - {x: 2, y: -34.5}
+        - {x: 6, y: -33.5}
+        - {x: 9, y: -32.5}
+        - {x: 33, y: 7.5}
+        - {x: 33, y: 18.5}
+        - {x: 19, y: 20.5}
+        - {x: 1, y: 50.5}
+        - {x: -27, y: 50.5}
+        - {x: -33, y: 31.5}
+        - {x: -33, y: -50.5}
+        - {x: -4, y: -50.5}
+        - {x: 0, y: -49.5}
+        - {x: 2, y: -47.5}
+        - {x: 33, y: -37.5}
+    - name: Titan_119
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 331
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 51.5}
+        - {x: -28.5, y: -51.5}
+        - {x: 28.5, y: -51.5}
+        - {x: 28.5, y: 48.5}
+        - {x: 21.5, y: 51.5}
+    - name: Titan_120
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 331
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -9.5}
+        - {x: 44, y: -1.5}
+        - {x: 44, y: 26.5}
+        - {x: 14, y: 56.5}
+        - {x: -24, y: 56.5}
+        - {x: -34, y: 52.5}
+        - {x: -42, y: 34.5}
+        - {x: -44, y: 28.5}
+        - {x: -44, y: -37.5}
+        - {x: -20, y: -56.5}
+        - {x: 28, y: -56.5}
+        - {x: 44, y: -46.5}
+        - {x: 44, y: -32.5}
+        - {x: 33, y: -33.5}
+    - name: Titan_121
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 331
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 8.5}
+        - {x: 8, y: 1.5}
+        - {x: 2, y: -4.5}
+        - {x: 2, y: 5.5}
+        - {x: 33, y: 40.5}
+        - {x: 10, y: 58.5}
+        - {x: -34, y: 58.5}
+        - {x: -34, y: -58.5}
+        - {x: 18, y: -58.5}
+        - {x: 31, y: -53.5}
+        - {x: 29, y: -44.5}
+        - {x: 34, y: -37.5}
+        - {x: 34, y: -12.5}
+    - name: Titan_122
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 331
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 49.5}
+        - {x: -36.5, y: 49.5}
+        - {x: -51.5, y: 41.5}
+        - {x: -51.5, y: -49.5}
+        - {x: 2.5, y: -49.5}
+        - {x: 40.5, y: -22.5}
+        - {x: 51.5, y: 25.5}
+        - {x: 51.5, y: 42.5}
+    - name: Titan_123
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 331
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -35.5}
+        - {x: 34, y: -32.5}
+        - {x: 34, y: -15.5}
+        - {x: 31, y: 3.5}
+        - {x: 29, y: 5.5}
+        - {x: 26, y: 5.5}
+        - {x: 22, y: 4.5}
+        - {x: 10, y: 5.5}
+        - {x: 30, y: 5.5}
+        - {x: 34, y: 4.5}
+        - {x: 34, y: 20.5}
+        - {x: 15, y: 49.5}
+        - {x: -15, y: 49.5}
+        - {x: -34, y: 14.5}
+        - {x: -34, y: -11.5}
+        - {x: -26, y: -17.5}
+        - {x: -34, y: -32.5}
+        - {x: -34, y: -40.5}
+        - {x: -31, y: -46.5}
+        - {x: -28, y: -49.5}
+        - {x: 16, y: -49.5}
+        - {x: 29, y: -43.5}
+        - {x: 29, y: -39.5}
+        - {x: 28, y: -36.5}
+    - name: Titan_124
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 422
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_125
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 329
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -35.5}
+        - {x: 30, y: -32.5}
+        - {x: 32, y: -28.5}
+        - {x: 29, y: -16.5}
+        - {x: 26, y: -13.5}
+        - {x: 25, y: -13.5}
+        - {x: 27, y: -13.5}
+        - {x: 30, y: -17.5}
+        - {x: 39, y: -17.5}
+        - {x: 39, y: -11.5}
+        - {x: 35, y: -4.5}
+        - {x: 5, y: 49.5}
+        - {x: -24, y: 49.5}
+        - {x: -39, y: 15.5}
+        - {x: -39, y: -49.5}
+        - {x: 21, y: -49.5}
+        - {x: 30, y: -38.5}
+        - {x: 29, y: -35.5}
+        - {x: 22, y: -35.5}
+      - - {x: 24, y: -19.5}
+        - {x: 22, y: -24.5}
+        - {x: 22, y: -26.5}
+        - {x: 28, y: -29.5}
+        - {x: 33, y: -29.5}
+        - {x: 37, y: -26.5}
+        - {x: 39, y: -24.5}
+        - {x: 39, y: -19.5}
+      - - {x: 32, y: -22.5}
+        - {x: 35, y: -21.5}
+        - {x: 35, y: -18.5}
+        - {x: 32, y: -17.5}
+        - {x: 30, y: -19.5}
+      - - {x: 39, y: -8.5}
+        - {x: 39, y: -3.5}
+        - {x: 34, y: 2.5}
+        - {x: 26, y: 2.5}
+        - {x: 23, y: -3.5}
+        - {x: 23, y: -6.5}
+        - {x: 26, y: -8.5}
+        - {x: 30, y: -8.5}
+        - {x: 32, y: -7.5}
+        - {x: 32, y: -5.5}
+        - {x: 33, y: -4.5}
+        - {x: 37, y: -8.5}
+      - - {x: 33, y: 8.5}
+        - {x: 33, y: 1.5}
+        - {x: 36, y: -0.5}
+        - {x: 39, y: 0.5}
+        - {x: 39, y: 6.5}
+        - {x: 37, y: 8.5}
+      - - {x: 25, y: 5.5}
+        - {x: 27, y: 2.5}
+        - {x: 31, y: 3.5}
+        - {x: 33, y: 5.5}
+        - {x: 33, y: 7.5}
+        - {x: 30, y: 8.5}
+      - - {x: 30, y: 11.5}
+        - {x: 33, y: 12.5}
+        - {x: 33, y: 15.5}
+        - {x: 30, y: 16.5}
+        - {x: 28, y: 14.5}
+      - - {x: 26, y: 23.5}
+        - {x: 29, y: 24.5}
+        - {x: 29, y: 27.5}
+        - {x: 26, y: 28.5}
+        - {x: 24, y: 26.5}
+    - name: Titan_126
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 328
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -50}
+        - {x: 10, y: -48}
+        - {x: 7, y: -47}
+        - {x: 5, y: -50}
+      - - {x: -23, y: 50}
+        - {x: -43, y: 34}
+        - {x: -43, y: -49}
+        - {x: 26, y: -49}
+        - {x: 43, y: -28}
+        - {x: 43, y: 33}
+        - {x: 9, y: 50}
+    - name: Titan_127
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 347
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_128
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 174
+        width: 56
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 65}
+        - {x: -28, y: -65}
+        - {x: 28, y: -65}
+        - {x: 28, y: 1}
+        - {x: -11, y: 65}
+      - - {x: -25, y: -30}
+        - {x: -25, y: -27}
+        - {x: -28, y: -26}
+        - {x: -28, y: -31}
+    - name: Titan_129
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 174
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 66}
+        - {x: -60, y: 66}
+        - {x: -60, y: -24}
+        - {x: -53, y: -29}
+        - {x: -42, y: -32}
+        - {x: -41, y: -32}
+        - {x: -44, y: -32}
+        - {x: -55, y: -29}
+        - {x: -60, y: -30}
+        - {x: -60, y: -40}
+        - {x: 2, y: -66}
+        - {x: 60, y: -66}
+        - {x: 60, y: 30}
+        - {x: 30, y: 56}
+    - name: Titan_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_131
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 147
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 87.5}
+        - {x: -42.5, y: -87.5}
+        - {x: 42.5, y: -87.5}
+        - {x: 42.5, y: 87.5}
+    - name: Titan_132
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 159
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 60}
+        - {x: -62.5, y: 60}
+        - {x: -62.5, y: 16}
+        - {x: -23.5, y: -60}
+        - {x: 33.5, y: -60}
+        - {x: 33.5, y: 41}
+        - {x: 7.5, y: 56}
+      - - {x: -27.5, y: -39}
+        - {x: -24.5, y: -38}
+        - {x: -23.5, y: -34}
+        - {x: -28.5, y: -31}
+        - {x: -30.5, y: -34}
+      - - {x: -57.5, y: -9}
+        - {x: -62.5, y: -9}
+        - {x: -62.5, y: -17}
+        - {x: -50.5, y: -32}
+        - {x: -44.5, y: -33}
+        - {x: -34.5, y: -33}
+        - {x: -34.5, y: -27}
+        - {x: -38.5, y: -21}
+        - {x: -41.5, y: -19}
+        - {x: -44.5, y: -20}
+      - - {x: 59.5, y: -11}
+        - {x: 61.5, y: -13}
+        - {x: 62.5, y: -13}
+        - {x: 62.5, y: -8}
+        - {x: 60.5, y: -8}
+      - - {x: 58.5, y: -1}
+        - {x: 57.5, y: -4}
+        - {x: 60.5, y: -7}
+        - {x: 62.5, y: -6}
+        - {x: 62.5, y: -3}
+        - {x: 60.5, y: -1}
+      - - {x: 56.5, y: -2}
+        - {x: 59.5, y: -1}
+        - {x: 59.5, y: 2}
+        - {x: 56.5, y: 3}
+        - {x: 54.5, y: 1}
+      - - {x: 59.5, y: 1}
+        - {x: 61.5, y: -1}
+        - {x: 62.5, y: -1}
+        - {x: 62.5, y: 4}
+        - {x: 60.5, y: 4}
+      - - {x: 56.5, y: 5}
+        - {x: 59.5, y: 6}
+        - {x: 59.5, y: 9}
+        - {x: 56.5, y: 10}
+        - {x: 54.5, y: 8}
+      - - {x: 51.5, y: 7}
+        - {x: 54.5, y: 8}
+        - {x: 54.5, y: 11}
+        - {x: 51.5, y: 12}
+        - {x: 49.5, y: 10}
+      - - {x: 46.5, y: 17}
+        - {x: 46.5, y: 15}
+        - {x: 49.5, y: 12}
+        - {x: 50.5, y: 12}
+        - {x: 54.5, y: 16}
+        - {x: 54.5, y: 18}
+        - {x: 51.5, y: 19}
+      - - {x: 47.5, y: 22}
+        - {x: 50.5, y: 23}
+        - {x: 50.5, y: 26}
+        - {x: 47.5, y: 27}
+        - {x: 45.5, y: 25}
+      - - {x: 43.5, y: 27}
+        - {x: 46.5, y: 28}
+        - {x: 46.5, y: 31}
+        - {x: 43.5, y: 32}
+        - {x: 41.5, y: 30}
+    - name: Titan_133
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 162
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -47.5}
+        - {x: -17.5, y: -47.5}
+        - {x: -17.5, y: -44.5}
+        - {x: -20.5, y: -43.5}
+        - {x: -22.5, y: -45.5}
+      - - {x: -33.5, y: -38.5}
+        - {x: -29.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 21.5}
+        - {x: 29.5, y: 46.5}
+        - {x: 27.5, y: 47.5}
+        - {x: -20.5, y: 47.5}
+        - {x: -33.5, y: 19.5}
+    - name: Titan_134
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 170
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -48}
+        - {x: 5, y: -46}
+        - {x: 2, y: -45}
+        - {x: 0, y: -48}
+      - - {x: 33, y: 29}
+        - {x: -2, y: 48}
+        - {x: -22, y: 48}
+        - {x: -33, y: 27}
+        - {x: -33, y: -47}
+        - {x: -31, y: -48}
+        - {x: 29, y: -48}
+        - {x: 30, y: -46}
+        - {x: 29, y: -43}
+        - {x: 33, y: -35}
+    - name: Titan_135
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 174
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 27.5}
+        - {x: 13, y: 24.5}
+        - {x: -1, y: 49.5}
+        - {x: -23, y: 49.5}
+        - {x: -31, y: 46.5}
+        - {x: -31, y: -49.5}
+        - {x: 17, y: -49.5}
+        - {x: 31, y: -44.5}
+        - {x: 31, y: 25.5}
+        - {x: 30, y: 26.5}
+    - name: Titan_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 177
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -17.5}
+        - {x: 14, y: -15.5}
+        - {x: 30, y: 9.5}
+        - {x: 32, y: 14.5}
+        - {x: 30, y: 16.5}
+        - {x: 27, y: 16.5}
+        - {x: 20, y: 49.5}
+        - {x: 0, y: 51.5}
+        - {x: -21, y: 51.5}
+        - {x: -32, y: 25.5}
+        - {x: -32, y: -51.5}
+        - {x: 21, y: -51.5}
+        - {x: 32, y: -42.5}
+        - {x: 32, y: -30.5}
+        - {x: 18, y: -31.5}
+    - name: Titan_137
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 177
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -30.5}
+        - {x: 27, y: -28.5}
+        - {x: 21, y: -28.5}
+        - {x: 25, y: -28.5}
+        - {x: 31, y: -29.5}
+        - {x: 31, y: 59.5}
+        - {x: -18, y: 59.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -54.5}
+        - {x: -25, y: -59.5}
+        - {x: 19, y: -59.5}
+        - {x: 28, y: -58.5}
+        - {x: 31, y: -56.5}
+        - {x: 31, y: -33.5}
+    - name: Titan_138
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 174
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12.5}
+        - {x: 11, y: 9.5}
+        - {x: 13, y: 2.5}
+        - {x: 18, y: -7.5}
+        - {x: 27, y: -4.5}
+        - {x: 35, y: 18.5}
+        - {x: 35, y: 34.5}
+        - {x: 15, y: 51.5}
+        - {x: -12, y: 51.5}
+        - {x: -35, y: 10.5}
+        - {x: -35, y: -41.5}
+        - {x: -13, y: -51.5}
+        - {x: 19, y: -51.5}
+        - {x: 34, y: -36.5}
+        - {x: 23, y: -18.5}
+        - {x: 14, y: -5.5}
+    - name: Titan_139
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 171
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -47.5}
+        - {x: -30, y: -50.5}
+        - {x: 26, y: -50.5}
+        - {x: 32, y: -46.5}
+        - {x: 32, y: 17.5}
+        - {x: 19, y: 50.5}
+        - {x: 6, y: 50.5}
+        - {x: -32, y: 9.5}
+    - name: Titan_140
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 176
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 49}
+        - {x: -26.5, y: 32}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -43}
+        - {x: -29.5, y: -44}
+        - {x: -23.5, y: -49}
+        - {x: 26.5, y: -49}
+        - {x: 30.5, y: -42}
+        - {x: 30.5, y: -18}
+        - {x: 11.5, y: 49}
+    - name: Titan_141
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 177
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -3, y: 50}
+        - {x: -18, y: 50}
+        - {x: -32, y: 41}
+        - {x: -32, y: -50}
+        - {x: 15, y: -50}
+        - {x: 32, y: -46}
+        - {x: 32, y: 16}
+        - {x: 28, y: 16}
+    - name: Titan_142
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 149
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_143
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 146
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_144
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 146
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_145
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 149
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_146
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 149
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_147
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 149
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_148
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 146
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_149
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 17
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 50}
+        - {x: -10.5, y: 31}
+        - {x: -11.5, y: 25}
+        - {x: -26.5, y: 59}
+        - {x: -39.5, y: 59}
+        - {x: -41.5, y: 22}
+        - {x: -41.5, y: -29}
+        - {x: -40.5, y: -35}
+        - {x: -36.5, y: -38}
+        - {x: -29.5, y: -38}
+        - {x: -0.5, y: -59}
+        - {x: 13.5, y: -59}
+        - {x: 40.5, y: -55}
+        - {x: 41.5, y: -55}
+        - {x: 41.5, y: 50}
+    - name: Titan_150
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 21
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 32.5}
+        - {x: -5, y: 31.5}
+        - {x: -9, y: 24.5}
+        - {x: -11, y: 18.5}
+        - {x: -13, y: 30.5}
+        - {x: 4, y: 43.5}
+        - {x: 13, y: 54.5}
+        - {x: 12, y: 56.5}
+        - {x: -2, y: 56.5}
+        - {x: -32, y: 32.5}
+        - {x: -32, y: -41.5}
+        - {x: -23, y: -56.5}
+        - {x: 32, y: -56.5}
+        - {x: 32, y: 29.5}
+        - {x: 19, y: 33.5}
+    - name: Titan_151
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 128
+        width: 125
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_152
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_153
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_154
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 131
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_155
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 131
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 16}
+        - {x: -44, y: -50}
+        - {x: -43, y: -51}
+        - {x: 35, y: -51}
+        - {x: 44, y: -47}
+        - {x: 44, y: 32}
+        - {x: 42, y: 38}
+        - {x: 8, y: 51}
+        - {x: -19, y: 51}
+        - {x: -22, y: 50}
+    - name: Titan_157
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 22
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 24.5}
+        - {x: -52.5, y: 41.5}
+        - {x: -52.5, y: 24.5}
+        - {x: -51.5, y: 19.5}
+        - {x: -21.5, y: -8.5}
+        - {x: -7.5, y: -8.5}
+        - {x: -52.5, y: -24.5}
+        - {x: -52.5, y: -50.5}
+        - {x: 52.5, y: -50.5}
+        - {x: 52.5, y: 45.5}
+        - {x: 51.5, y: 50.5}
+        - {x: 25.5, y: 50.5}
+        - {x: 7.5, y: 47.5}
+        - {x: -1.5, y: 44.5}
+    - name: Titan_158
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 22
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 49.5}
+        - {x: -25, y: 49.5}
+        - {x: -28, y: 48.5}
+        - {x: -28, y: -49.5}
+        - {x: 21, y: -49.5}
+        - {x: 28, y: -32.5}
+        - {x: 28, y: 31.5}
+    - name: Titan_159
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 17
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 52}
+        - {x: -32.5, y: -12}
+        - {x: -24.5, y: -12}
+        - {x: -21.5, y: -11}
+        - {x: -16.5, y: -7}
+        - {x: -21.5, y: -10}
+        - {x: -24.5, y: -13}
+        - {x: -32.5, y: -32}
+        - {x: -32.5, y: -43}
+        - {x: -22.5, y: -52}
+        - {x: 32.5, y: -52}
+        - {x: 32.5, y: 41}
+        - {x: 2.5, y: 52}
+    - name: Titan_160
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_161
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_162
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 115
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_163
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_164
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_165
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_166
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_167
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_168
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 113
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_169
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_170
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_171
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 115
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_172
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 115
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_173
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_174
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_175
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 22
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 46}
+        - {x: -46, y: 33}
+        - {x: -46, y: -42}
+        - {x: -23, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: Titan_176
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 17
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 43.5}
+        - {x: -11, y: 43.5}
+        - {x: -31, y: 3.5}
+        - {x: -31, y: -39.5}
+        - {x: -7, y: -43.5}
+        - {x: 31, y: -43.5}
+        - {x: 31, y: 23.5}
+        - {x: 28, y: 38.5}
+    - name: Titan_177
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 22
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 44}
+        - {x: -30, y: 9}
+        - {x: -30, y: -44}
+        - {x: 30, y: -44}
+        - {x: 30, y: 8}
+        - {x: 16, y: 44}
+    - name: Titan_178
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 16
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 47}
+        - {x: -52.5, y: 25}
+        - {x: -53.5, y: 23}
+        - {x: -53.5, y: 14}
+        - {x: -19.5, y: -13}
+        - {x: -13.5, y: -11}
+        - {x: -1.5, y: -2}
+        - {x: -6.5, y: -5}
+        - {x: -6.5, y: -7}
+        - {x: -24.5, y: -22}
+        - {x: -53.5, y: -25}
+        - {x: -53.5, y: -29}
+        - {x: -42.5, y: -40}
+        - {x: -23.5, y: -47}
+        - {x: 56.5, y: -47}
+        - {x: 56.5, y: 47}
+      - - {x: -56.5, y: -30}
+        - {x: -53.5, y: -30}
+        - {x: -51.5, y: -28}
+        - {x: -52.5, y: -25}
+        - {x: -56.5, y: -25}
+    - name: Titan_179
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 25
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 27.5}
+        - {x: -5, y: 21.5}
+        - {x: -9, y: 15.5}
+        - {x: -19, y: 12.5}
+        - {x: 12, y: 35.5}
+        - {x: 13, y: 40.5}
+        - {x: -1, y: 40.5}
+        - {x: -33, y: 31.5}
+        - {x: -33, y: -27.5}
+        - {x: -9, y: -40.5}
+        - {x: 33, y: -40.5}
+        - {x: 33, y: 17.5}
+        - {x: 23, y: 26.5}
+    - name: Titan_180
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 96
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_181
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_182
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_183
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 99
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_184
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_185
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 96
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_186
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_187
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_188
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_189
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 99
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_190
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_191
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_192
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 99
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Titan_193
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 22
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22.5}
+        - {x: -7, y: 22.5}
+        - {x: -31, y: 5.5}
+        - {x: -32, y: 4.5}
+        - {x: -32, y: -21.5}
+        - {x: -27, y: -22.5}
+        - {x: 28, y: -22.5}
+        - {x: 32, y: -16.5}
+        - {x: 32, y: 12.5}
+    - name: Titan_194
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 26
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 25.5}
+        - {x: -22.5, y: 11.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 22.5, y: 21.5}
+        - {x: 17.5, y: 25.5}
+    - name: Titan_195
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 23
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -22, y: 12}
+        - {x: -22, y: -17}
+        - {x: 22, y: -17}
+        - {x: 22, y: 13}
+        - {x: 8, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
