@@ -95,6 +95,7 @@ public class finalBossScript : MonoBehaviour {
             anim.SetBool("dead", true);
             anim.SetBool("attack", false);
             anim.SetBool("walk", false);
+            PlayerPrefs.SetInt("gameDone", 1);
             speed = 0f;
             knightDead = true;
             rb.isKinematic = true;

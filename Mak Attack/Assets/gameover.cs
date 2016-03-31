@@ -23,7 +23,7 @@ public class gameover : MonoBehaviour
 	void FixedUpdate()
 	{
 		timeM += Time.time;
-		if (timeM > 300.0) {
+		if (timeM > 3000.0) {
 			Application.LoadLevel ("menu");
 		}
 	}

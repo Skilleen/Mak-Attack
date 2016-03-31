@@ -21,7 +21,7 @@ public class CanvasScript5 : MonoBehaviour {
         RayoScriptLevel5 rayoScript = Rogue.GetComponent<RayoScriptLevel5>();
         if (!rayoScript.dead)
         {
-            instruction.text = "Health: " + rayoScript.rayoLife.ToString() + "/" + rayoScript.rayoMaxLife.ToString() + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: " + rayoScript.potionCount.ToString();
+            instruction.text = "Health: " + rayoScript.rayoLife.ToString("n1") + "/" + rayoScript.rayoMaxLife.ToString() + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: " + rayoScript.potionCount.ToString();
         }
         else
         {

@@ -133,9 +133,9 @@ public class RayoScriptLevel5 : MonoBehaviour {
     void OnCollisionEnter2D(Collision2D col)
     {
      
-        if (col.gameObject.name == "levelExit")
+        if (col.gameObject.name == "levelExit" )
         {
-            SceneManager.LoadScene("menu");
+            SceneManager.LoadScene("GameWin");
         }
         if (col.gameObject.name == "finalBoss")
         {
