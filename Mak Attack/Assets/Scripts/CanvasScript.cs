@@ -35,14 +35,5 @@ public class CanvasScript : MonoBehaviour {
         {
             instruction.text = "Health: " + rayoScript.rayoLife.ToString("n0") + "/" + rayoScript.rayoMaxLife.ToString() + "         Score: " + rayoScript.rayoScore.ToString() + "           Potions: "+rayoScript.potionCount.ToString();
         }
-        else
-        {
-            instruction.text = "You are dead! Your Final score is " + rayoScript.rayoScore.ToString("n2");
-            timeLeft -= Time.deltaTime;
-            if (timeLeft < 0)
-            {
-                SceneManager.LoadScene("menu");
-            }
-        }
     }
 }
