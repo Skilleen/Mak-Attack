@@ -7,23 +7,23 @@ public class gameover : MonoBehaviour
 {
 	public int rayoScore = 0;
 	public bool dead = false;
-	public int count = 100;
-	public int count2 = 100;
 	public Text scoreText; 
-	public float timeM = 1.0f;
+	public float timeM;
+	public float restartDelay = 5f;
 	// Use this for initialization
 	void Start()
 	{
 		
 		rayoScore = PlayerPrefs.GetInt ("score");
 		scoreText.text = "Your Final Score is: " + rayoScore.ToString();
+		//timeM = 5.0f;
 	}
 
 	// Update is called once per frame
 	void FixedUpdate()
 	{
-		timeM += Time.time;
-		if (timeM > 3000.0) {
+		timeM += Time.deltaTime;
+		if (timeM >= restartDelay) {
 			Application.LoadLevel ("menu");
 		}
 	}
