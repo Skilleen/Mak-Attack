@@ -20,8 +20,8 @@ public class DialogPanel4 : MonoBehaviour {
 
     void Update()
     {
-        GameObject thirdBoss = GameObject.Find("thirdBoss");
-        ThirdBossDialog boss = thirdBoss.GetComponent<ThirdBossDialog>();
+        GameObject thirdBoss = GameObject.Find("fourthBoss");
+        FourthBossDialog boss = thirdBoss.GetComponent<FourthBossDialog>();
         GameObject Rogue = GameObject.Find("Rogue");
         RayoScriptLevel4 rayoScript = Rogue.GetComponent<RayoScriptLevel4>();
         if (boss.range > 5)

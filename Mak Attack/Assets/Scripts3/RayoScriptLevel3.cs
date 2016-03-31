@@ -19,7 +19,9 @@ public class RayoScriptLevel3 : MonoBehaviour {
     private bool knight4Collide = false;
     private bool knight5Collide = false;
     private bool knight6Collide = false;
+    private bool bossCollide = false;
     public bool art = false;
+    boss3Script bossScript;
     private int count = 0;
 
     // Use this for initialization
@@ -33,6 +35,7 @@ public class RayoScriptLevel3 : MonoBehaviour {
         rayoDamage = PlayerPrefs.GetFloat("damage");
         potionCount = PlayerPrefs.GetInt("potions");
         PlayerPrefs.SetInt("level", 3);
+        PlayerPrefs.SetInt("bossAttack", 0);
     }
 
     // Update is called once per frame
@@ -43,6 +46,8 @@ public class RayoScriptLevel3 : MonoBehaviour {
         PlayerPrefs.SetInt("score", rayoScore);
         PlayerPrefs.SetFloat("damage", rayoDamage);
         PlayerPrefs.SetInt("potions", potionCount);
+        GameObject boss = GameObject.Find("thirdBoss");
+        bossScript = boss.GetComponent<boss3Script>();
         GameObject Knight1 = GameObject.Find("Knight");
         KnightScript1Three Knight1Script = Knight1.GetComponent<KnightScript1Three>();
         GameObject Knight2 = GameObject.Find("Knight2");
@@ -61,6 +66,7 @@ public class RayoScriptLevel3 : MonoBehaviour {
         Knight4.GetComponent<SpriteRenderer>().color = Color.white;
         Knight5.GetComponent<SpriteRenderer>().color = Color.white;
         Knight6.GetComponent<SpriteRenderer>().color = Color.white;
+        boss.GetComponent<SpriteRenderer>().color = Color.white;
         anim.SetBool("attack", false);
         anim.SetBool("walk", false); //reset animations on every update
         if (!dead) //Make sure player is not dead
@@ -183,6 +189,11 @@ public class RayoScriptLevel3 : MonoBehaviour {
                         Knight6.GetComponent<SpriteRenderer>().color = Color.red;
                         Knight6Script.knightLife -= 4;
                     }
+                    if (bossCollide && !bossScript.knightDead && PlayerPrefs.GetInt("bossAttack") == 1)
+                    {
+                        boss.GetComponent<SpriteRenderer>().color = Color.red;
+                        bossScript.knightLife -= 4;
+                    }
                 }
             }
         }
@@ -210,6 +221,10 @@ public class RayoScriptLevel3 : MonoBehaviour {
         if (Knight6Script.playerHit && Knight6Script.doDamage && !dead)
         {
             rayoLife = rayoLife - 0.2f;
+        }
+        if (bossScript.playerHit && bossScript.doDamage && !dead)
+        {
+            rayoLife = rayoLife - 0.4f;
         }
         if (rayoLife <= 0)
         {
@@ -246,11 +261,15 @@ public class RayoScriptLevel3 : MonoBehaviour {
         {
             knight6Collide = true;
         }
+        if (col.gameObject.name == "thirdBoss")
+        {
+            bossCollide = true;
+        }
         if (col.gameObject.name == "BumpForEnoch")
         {
             art = true;
         }
-        if (col.gameObject.name == "levelExit")
+        if (col.gameObject.name == "levelExit" && PlayerPrefs.GetInt("bossAttack") == 2)
         {
             SceneManager.LoadScene("Shop");
         }

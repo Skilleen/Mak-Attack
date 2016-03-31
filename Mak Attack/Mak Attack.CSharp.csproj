@@ -103,14 +103,17 @@
     <Compile Include="Assets\Scripts3\RayoScriptLevel3.cs" />
     <Compile Include="Assets\Scripts3\RedGemScript3.cs" />
     <Compile Include="Assets\Scripts3\ThirdBossDialog.cs" />
+    <Compile Include="Assets\Scripts3\boss3Script.cs" />
     <Compile Include="Assets\Scripts4\BlueGemScript4.cs" />
     <Compile Include="Assets\Scripts4\CanvasScript4.cs" />
     <Compile Include="Assets\Scripts4\DialogPanel4.cs" />
+    <Compile Include="Assets\Scripts4\FourthBossDialog.cs" />
     <Compile Include="Assets\Scripts4\KnightScript1Four.cs" />
     <Compile Include="Assets\Scripts4\KnightScript2Four.cs" />
     <Compile Include="Assets\Scripts4\KnightScript3Four.cs" />
     <Compile Include="Assets\Scripts4\KnightScript4Four.cs" />
     <Compile Include="Assets\Scripts4\RayoScriptLevel4.cs" />
+    <Compile Include="Assets\Scripts4\boss4Script.cs" />
     <Compile Include="Assets\Scripts5\CanvasScript5.cs" />
     <Compile Include="Assets\Scripts5\DialogPanel5.cs" />
     <Compile Include="Assets\Scripts5\RayoScriptLevel5.cs" />

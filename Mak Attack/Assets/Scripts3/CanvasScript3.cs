@@ -24,9 +24,14 @@ public class CanvasScript3 : MonoBehaviour {
         ThirdBossDialog bossScript = boss.GetComponent<ThirdBossDialog>();
         if (bossScript.paymentAccept && !bossPaid && bossScript.range < 5)
         {
-            rayoScript.rayoScore -= 100;
+            rayoScript.rayoScore -= 300;
             bossScript.paymentAccept = false;
             bossPaid = true;
+            PlayerPrefs.SetInt("bossAttack", 2);
+        }
+        else if (bossScript.attackBoss && !bossPaid && bossScript.range < 5)
+        {
+            PlayerPrefs.SetInt("bossAttack", 1);
         }
         if (!rayoScript.dead)
         {

@@ -30,7 +30,7 @@ public class DialogPanel3 : MonoBehaviour
             button1.interactable = false;
             button2.interactable = false;
         }
-        else if (boss.range <= 5 && rayoScript.rayoScore > 100)
+        else if (boss.range <= 5 && rayoScript.rayoScore >= 100)
         {
             button1.interactable = true;
             button2.interactable = true;

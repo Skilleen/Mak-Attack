@@ -19,13 +19,18 @@ public class CanvasScript4 : MonoBehaviour {
     {
         GameObject Rogue = GameObject.Find("Rogue");
         RayoScriptLevel4 rayoScript = Rogue.GetComponent<RayoScriptLevel4>();
-        GameObject boss = GameObject.Find("thirdBoss");
-        ThirdBossDialog bossScript = boss.GetComponent<ThirdBossDialog>();
+        GameObject boss = GameObject.Find("fourthBoss");
+        FourthBossDialog bossScript = boss.GetComponent<FourthBossDialog>();
         if (bossScript.paymentAccept && !bossPaid && bossScript.range < 5)
         {
-            rayoScript.rayoScore -= 100;
+            rayoScript.rayoScore -= 500;
             bossScript.paymentAccept = false;
             bossPaid = true;
+            PlayerPrefs.SetInt("bossAttack", 2);
+        }
+        else if (bossScript.attackBoss && !bossPaid && bossScript.range < 5)
+        {
+            PlayerPrefs.SetInt("bossAttack", 1);
         }
         if (!rayoScript.dead)
         {

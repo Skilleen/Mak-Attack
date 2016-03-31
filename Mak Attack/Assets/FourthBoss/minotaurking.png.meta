@@ -1,0 +1,2556 @@
+fileFormatVersion: 2
+guid: 2679d1f7782c730408096fb948e2d4dd
+timeCreated: 1459187211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: minotaurking_0
+    21300002: minotaurking_1
+    21300004: minotaurking_2
+    21300006: minotaurking_3
+    21300008: minotaurking_4
+    21300010: minotaurking_5
+    21300012: minotaurking_6
+    21300014: minotaurking_7
+    21300016: minotaurking_8
+    21300018: minotaurking_9
+    21300020: minotaurking_10
+    21300022: minotaurking_11
+    21300024: minotaurking_12
+    21300026: minotaurking_13
+    21300028: minotaurking_14
+    21300030: minotaurking_15
+    21300032: minotaurking_16
+    21300034: minotaurking_17
+    21300036: minotaurking_18
+    21300038: minotaurking_19
+    21300040: minotaurking_20
+    21300042: minotaurking_21
+    21300044: minotaurking_22
+    21300046: minotaurking_23
+    21300048: minotaurking_24
+    21300050: minotaurking_25
+    21300052: minotaurking_26
+    21300054: minotaurking_27
+    21300056: minotaurking_28
+    21300058: minotaurking_29
+    21300060: minotaurking_30
+    21300062: minotaurking_31
+    21300064: minotaurking_32
+    21300066: minotaurking_33
+    21300068: minotaurking_34
+    21300070: minotaurking_35
+    21300072: minotaurking_36
+    21300074: minotaurking_37
+    21300076: minotaurking_38
+    21300078: minotaurking_39
+    21300080: minotaurking_40
+    21300082: minotaurking_41
+    21300084: minotaurking_42
+    21300086: minotaurking_43
+    21300088: minotaurking_44
+    21300090: minotaurking_45
+    21300092: minotaurking_46
+    21300094: minotaurking_47
+    21300096: minotaurking_48
+    21300098: minotaurking_49
+    21300100: minotaurking_50
+    21300102: minotaurking_51
+    21300104: minotaurking_52
+    21300106: minotaurking_53
+    21300108: minotaurking_54
+    21300110: minotaurking_55
+    21300112: minotaurking_56
+    21300114: minotaurking_57
+    21300116: minotaurking_58
+    21300118: minotaurking_59
+    21300120: minotaurking_60
+    21300122: minotaurking_61
+    21300124: minotaurking_62
+    21300126: minotaurking_63
+    21300128: minotaurking_64
+    21300130: minotaurking_65
+    21300132: minotaurking_66
+    21300134: minotaurking_67
+    21300136: minotaurking_68
+    21300138: minotaurking_69
+    21300140: minotaurking_70
+    21300142: minotaurking_71
+    21300144: minotaurking_72
+    21300146: minotaurking_73
+    21300148: minotaurking_74
+    21300150: minotaurking_75
+    21300152: minotaurking_76
+    21300154: minotaurking_77
+    21300156: minotaurking_78
+    21300158: minotaurking_79
+    21300160: minotaurking_80
+    21300162: minotaurking_81
+    21300164: minotaurking_82
+    21300166: minotaurking_83
+    21300168: minotaurking_84
+    21300170: minotaurking_85
+    21300172: minotaurking_86
+    21300174: minotaurking_87
+    21300176: minotaurking_88
+    21300178: minotaurking_89
+    21300180: minotaurking_90
+    21300182: minotaurking_91
+    21300184: minotaurking_92
+    21300186: minotaurking_93
+    21300188: minotaurking_94
+    21300190: minotaurking_95
+    21300192: minotaurking_96
+    21300194: minotaurking_97
+    21300196: minotaurking_98
+    21300198: minotaurking_99
+    21300200: minotaurking_100
+    21300202: minotaurking_101
+    21300204: minotaurking_102
+    21300206: minotaurking_103
+    21300208: minotaurking_104
+    21300210: minotaurking_105
+    21300212: minotaurking_106
+    21300214: minotaurking_107
+    21300216: minotaurking_108
+    21300218: minotaurking_109
+    21300220: minotaurking_110
+    21300222: minotaurking_111
+    21300224: minotaurking_112
+    21300226: minotaurking_113
+    21300228: minotaurking_114
+    21300230: minotaurking_115
+    21300232: minotaurking_116
+    21300234: minotaurking_117
+    21300236: minotaurking_118
+    21300238: minotaurking_119
+    21300240: minotaurking_120
+    21300242: minotaurking_121
+    21300244: minotaurking_122
+    21300246: minotaurking_123
+    21300248: minotaurking_124
+    21300250: minotaurking_125
+    21300252: minotaurking_126
+    21300254: minotaurking_127
+    21300256: minotaurking_128
+    21300258: minotaurking_129
+    21300260: minotaurking_130
+    21300262: minotaurking_131
+    21300264: minotaurking_132
+    21300266: minotaurking_133
+    21300268: minotaurking_134
+    21300270: minotaurking_135
+    21300272: minotaurking_136
+    21300274: minotaurking_137
+    21300276: minotaurking_138
+    21300278: minotaurking_139
+    21300280: minotaurking_140
+    21300282: minotaurking_141
+    21300284: minotaurking_142
+    21300286: minotaurking_143
+    21300288: minotaurking_144
+    21300290: minotaurking_145
+    21300292: minotaurking_146
+    21300294: minotaurking_147
+    21300296: minotaurking_148
+    21300298: minotaurking_149
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: minotaurking_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1086
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -31}
+        - {x: 12.5, y: -32}
+        - {x: 13.5, y: -31}
+        - {x: 17.5, y: -34}
+        - {x: 22.5, y: -34}
+        - {x: 24.5, y: -33}
+        - {x: 24.5, y: 47}
+        - {x: -8.5, y: 47}
+        - {x: -14.5, y: 46}
+        - {x: -24.5, y: 2}
+        - {x: -24.5, y: -46}
+        - {x: -23.5, y: -47}
+        - {x: 17.5, y: -47}
+        - {x: 19.5, y: -42}
+        - {x: 18.5, y: -36}
+        - {x: 16.5, y: -33}
+    - name: minotaurking_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1085
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 28}
+        - {x: -22.5, y: -47}
+        - {x: 22.5, y: -47}
+        - {x: 22.5, y: 47}
+        - {x: -1.5, y: 47}
+        - {x: -12.5, y: 45}
+    - name: minotaurking_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1085
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 46.5}
+        - {x: -23, y: 34.5}
+        - {x: -23, y: -45.5}
+        - {x: -19, y: -46.5}
+        - {x: 23, y: -46.5}
+        - {x: 23, y: 46.5}
+    - name: minotaurking_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1085
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 46.5}
+        - {x: 5.5, y: 45.5}
+        - {x: -7.5, y: 41.5}
+        - {x: -10.5, y: 40.5}
+        - {x: -23.5, y: 33.5}
+        - {x: -23.5, y: -46.5}
+        - {x: 23.5, y: -46.5}
+        - {x: 23.5, y: 46.5}
+    - name: minotaurking_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1085
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 46.5}
+        - {x: -23, y: 43.5}
+        - {x: -23, y: -42.5}
+        - {x: -19, y: -46.5}
+        - {x: 21, y: -46.5}
+        - {x: 23, y: -45.5}
+        - {x: 23, y: 46.5}
+      - - {x: 19, y: -15.5}
+        - {x: 21, y: -18.5}
+        - {x: 23, y: -17.5}
+        - {x: 23, y: -14.5}
+        - {x: 21, y: -13.5}
+    - name: minotaurking_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1085
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 47.5}
+        - {x: -21, y: 44.5}
+        - {x: -21, y: -47.5}
+        - {x: 21, y: -47.5}
+        - {x: 21, y: 47.5}
+    - name: minotaurking_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1085
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 48}
+        - {x: -21.5, y: 43}
+        - {x: -21.5, y: -48}
+        - {x: 19.5, y: -48}
+        - {x: 21.5, y: -42}
+        - {x: 21.5, y: 48}
+    - name: minotaurking_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1085
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48.5}
+        - {x: -23, y: 45.5}
+        - {x: -23, y: -48.5}
+        - {x: 23, y: -48.5}
+        - {x: 23, y: 39.5}
+        - {x: 19, y: 48.5}
+    - name: minotaurking_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 957
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 46.5}
+        - {x: -25.5, y: -46.5}
+        - {x: 22.5, y: -46.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 25.5, y: 46.5}
+    - name: minotaurking_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 957
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -28.5}
+        - {x: 31, y: -33.5}
+        - {x: 31, y: 37.5}
+        - {x: 28, y: 43.5}
+        - {x: 0, y: 43.5}
+        - {x: -20, y: 32.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -36.5}
+        - {x: -22, y: -43.5}
+        - {x: 17, y: -43.5}
+        - {x: 19, y: -36.5}
+        - {x: 17, y: -30.5}
+        - {x: 14, y: -27.5}
+    - name: minotaurking_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 954
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 48.5}
+        - {x: -25, y: 32.5}
+        - {x: -25, y: -43.5}
+        - {x: -22, y: -48.5}
+        - {x: 23, y: -48.5}
+        - {x: 25, y: -46.5}
+        - {x: 25, y: 45.5}
+        - {x: 23, y: 48.5}
+    - name: minotaurking_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 956
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 31}
+        - {x: -21.5, y: -46}
+        - {x: -19.5, y: -50}
+        - {x: 21.5, y: -50}
+        - {x: 21.5, y: 50}
+        - {x: -0.5, y: 50}
+        - {x: -17.5, y: 43}
+    - name: minotaurking_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 956
+        width: 51
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 50}
+        - {x: -25.5, y: 48}
+        - {x: -25.5, y: -50}
+        - {x: 25.5, y: -50}
+        - {x: 25.5, y: 39}
+        - {x: 19.5, y: 50}
+    - name: minotaurking_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 958
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 43.5}
+        - {x: -32, y: 17.5}
+        - {x: -32, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: 43.5}
+    - name: minotaurking_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 958
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -39.5}
+        - {x: 22.5, y: -35.5}
+        - {x: 17.5, y: -33.5}
+        - {x: 14.5, y: -32.5}
+        - {x: 22.5, y: -32.5}
+        - {x: 24.5, y: -31.5}
+        - {x: 24.5, y: 45.5}
+        - {x: -0.5, y: 45.5}
+        - {x: -15.5, y: 38.5}
+        - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -45.5}
+        - {x: 24.5, y: -45.5}
+    - name: minotaurking_15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 931
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -29, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 32}
+    - name: minotaurking_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 815
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -20}
+        - {x: 23, y: -21}
+        - {x: 25, y: -20}
+        - {x: 25, y: 47}
+        - {x: -25, y: 47}
+        - {x: -25, y: -40}
+        - {x: -22, y: -47}
+        - {x: 17, y: -47}
+        - {x: 25, y: -39}
+        - {x: 25, y: -31}
+        - {x: 23, y: -24}
+    - name: minotaurking_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 818
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -21.5}
+        - {x: 25.5, y: -21.5}
+        - {x: 25.5, y: 45.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -25.5, y: -42.5}
+        - {x: -21.5, y: -45.5}
+        - {x: 16.5, y: -45.5}
+        - {x: 21.5, y: -37.5}
+        - {x: 25.5, y: -28.5}
+        - {x: 25.5, y: -21.5}
+    - name: minotaurking_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 816
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 48.5}
+        - {x: -30, y: 47.5}
+        - {x: -30, y: -48.5}
+        - {x: -5, y: -48.5}
+        - {x: 3, y: -47.5}
+        - {x: 30, y: -41.5}
+        - {x: 30, y: 48.5}
+    - name: minotaurking_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 816
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -2}
+        - {x: 26.5, y: 37}
+        - {x: 24.5, y: 46}
+        - {x: 17.5, y: 43}
+        - {x: 12.5, y: 35}
+        - {x: 16.5, y: 48}
+        - {x: -16.5, y: 48}
+        - {x: -21.5, y: 47}
+        - {x: -25.5, y: 34}
+        - {x: -26.5, y: 27}
+        - {x: -26.5, y: -47}
+        - {x: -25.5, y: -48}
+        - {x: -0.5, y: -48}
+        - {x: 16.5, y: -46}
+        - {x: 26.5, y: -31}
+        - {x: 26.5, y: -16}
+        - {x: 20.5, y: -15}
+    - name: minotaurking_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 816
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 34.5}
+        - {x: 17, y: 40.5}
+        - {x: 12, y: 41.5}
+        - {x: 16, y: 48.5}
+        - {x: -18, y: 48.5}
+        - {x: -22, y: 45.5}
+        - {x: -22, y: -47.5}
+        - {x: -20, y: -48.5}
+        - {x: -1, y: -48.5}
+        - {x: 10, y: -45.5}
+        - {x: 15, y: -42.5}
+        - {x: 22, y: -30.5}
+    - name: minotaurking_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 816
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 49}
+        - {x: -27, y: 45}
+        - {x: -27, y: -49}
+        - {x: 5, y: -49}
+        - {x: 23, y: -41}
+        - {x: 27, y: -38}
+        - {x: 27, y: 49}
+    - name: minotaurking_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 876
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -12, y: -12}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: minotaurking_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 883
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_24
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_25
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_26
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 883
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_29
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 883
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_30
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 883
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_31
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_32
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 880
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 860
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_34
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_35
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 860
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_36
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_37
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 860
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_40
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 860
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_41
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 860
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_42
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 857
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_43
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 860
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_44
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 860
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_45
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 860
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_48
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 860
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_49
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 860
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_50
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 857
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_51
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 860
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_52
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 844
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_53
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 842
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_55
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_56
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 844
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_57
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 844
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_58
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 841
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_59
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 844
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_60
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 844
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_61
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 844
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_62
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 844
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_63
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 844
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_64
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 844
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_65
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 844
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_66
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 844
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 682
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 47.5}
+        - {x: -21.5, y: 45.5}
+        - {x: -21.5, y: -41.5}
+        - {x: -14.5, y: -47.5}
+        - {x: 21.5, y: -47.5}
+        - {x: 21.5, y: 44.5}
+        - {x: 18.5, y: 47.5}
+    - name: minotaurking_68
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 682
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 49.5}
+        - {x: -27.5, y: -38.5}
+        - {x: -11.5, y: -49.5}
+        - {x: 27.5, y: -49.5}
+        - {x: 27.5, y: 45.5}
+        - {x: 26.5, y: 49.5}
+    - name: minotaurking_69
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 682
+        width: 45
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 56}
+        - {x: -22.5, y: 42}
+        - {x: -22.5, y: -56}
+        - {x: 8.5, y: -56}
+        - {x: 22.5, y: -51}
+        - {x: 22.5, y: 35}
+        - {x: 17.5, y: 56}
+    - name: minotaurking_70
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 682
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48}
+        - {x: -22, y: -48}
+        - {x: 12, y: -48}
+        - {x: 22, y: -36}
+        - {x: 22, y: 48}
+    - name: minotaurking_71
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 682
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 49}
+        - {x: -17.5, y: 49}
+        - {x: -26.5, y: 33}
+        - {x: -26.5, y: -49}
+        - {x: 9.5, y: -49}
+        - {x: 26.5, y: -38}
+        - {x: 26.5, y: 35}
+        - {x: 14.5, y: 47}
+    - name: minotaurking_72
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 682
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 48.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -28.5, y: -48.5}
+        - {x: 28.5, y: -48.5}
+        - {x: 28.5, y: 35.5}
+        - {x: 14.5, y: 48.5}
+    - name: minotaurking_73
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 744
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 27}
+        - {x: -14.5, y: 27}
+        - {x: -21.5, y: 12}
+        - {x: -21.5, y: -13}
+        - {x: -10.5, y: -24}
+        - {x: 0.5, y: -27}
+        - {x: 14.5, y: -27}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 11}
+        - {x: 15.5, y: 21}
+    - name: minotaurking_74
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 744
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -12, y: 24.5}
+        - {x: -10, y: 18.5}
+        - {x: -9, y: 14.5}
+        - {x: -24, y: 5.5}
+        - {x: -24, y: -4.5}
+        - {x: -5, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 22.5}
+        - {x: 11, y: 25.5}
+    - name: minotaurking_75
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 744
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 26.5}
+        - {x: -15, y: 26.5}
+        - {x: -24, y: 8.5}
+        - {x: -24, y: -4.5}
+        - {x: -8, y: -24.5}
+        - {x: 3, y: -26.5}
+        - {x: 17, y: -26.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: 13.5}
+        - {x: 16, y: 25.5}
+    - name: minotaurking_76
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 670
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 27.5}
+        - {x: -11.5, y: 18.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -21.5, y: -9.5}
+        - {x: -18.5, y: -15.5}
+        - {x: -6.5, y: -25.5}
+        - {x: 0.5, y: -27.5}
+        - {x: 14.5, y: -27.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 5.5, y: 27.5}
+    - name: minotaurking_77
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 670
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 28}
+        - {x: -13, y: 28}
+        - {x: -21, y: 9}
+        - {x: -21, y: -13}
+        - {x: -18, y: -23}
+        - {x: 0, y: -28}
+        - {x: 14, y: -28}
+        - {x: 17, y: -8}
+        - {x: 17, y: 15}
+    - name: minotaurking_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 550
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -22, y: -48}
+        - {x: 17, y: -48}
+        - {x: 22, y: -38}
+        - {x: 22, y: 48}
+        - {x: -4, y: 48}
+        - {x: -16, y: 45}
+    - name: minotaurking_79
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 550
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 49}
+        - {x: -32, y: -49}
+        - {x: 26, y: -49}
+        - {x: 32, y: -48}
+        - {x: 32, y: 49}
+    - name: minotaurking_80
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 550
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 49}
+        - {x: -26, y: 37}
+        - {x: -26, y: -49}
+        - {x: 26, y: -49}
+        - {x: 26, y: 36}
+        - {x: 20, y: 49}
+    - name: minotaurking_81
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 550
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 45.5}
+        - {x: -28.5, y: 42.5}
+        - {x: -46.5, y: -9.5}
+        - {x: -46.5, y: -45.5}
+        - {x: 46.5, y: -45.5}
+        - {x: 46.5, y: 37.5}
+        - {x: 32.5, y: 45.5}
+    - name: minotaurking_82
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 549
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -21}
+        - {x: 25.5, y: -21}
+        - {x: 17.5, y: -22}
+        - {x: 36.5, y: 5}
+        - {x: 36.5, y: 41}
+        - {x: 33.5, y: 45}
+        - {x: -19.5, y: 45}
+        - {x: -36.5, y: -9}
+        - {x: -36.5, y: -45}
+        - {x: 11.5, y: -45}
+        - {x: 33.5, y: -37}
+        - {x: 36.5, y: -31}
+        - {x: 36.5, y: -22}
+    - name: minotaurking_83
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 550
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -26}
+        - {x: 29.5, y: -5}
+        - {x: 29.5, y: 20}
+        - {x: 19.5, y: 46}
+        - {x: -20.5, y: 46}
+        - {x: -29.5, y: 19}
+        - {x: -29.5, y: -46}
+        - {x: 18.5, y: -46}
+        - {x: 27.5, y: -42}
+        - {x: 29.5, y: -37}
+        - {x: 29.5, y: -29}
+    - name: minotaurking_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 417
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 47}
+        - {x: -23, y: 44}
+        - {x: -23, y: -47}
+        - {x: 21, y: -47}
+        - {x: 23, y: -39}
+        - {x: 23, y: 47}
+    - name: minotaurking_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 415
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 50.5}
+        - {x: -34.5, y: -49.5}
+        - {x: -26.5, y: -50.5}
+        - {x: 19.5, y: -50.5}
+        - {x: 34.5, y: -37.5}
+        - {x: 34.5, y: 50.5}
+    - name: minotaurking_86
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 408
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 49}
+        - {x: -27.5, y: -49}
+        - {x: 4.5, y: -49}
+        - {x: 17.5, y: -38}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 49}
+    - name: minotaurking_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 399
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 50}
+        - {x: -23.5, y: -40}
+        - {x: -21.5, y: -50}
+        - {x: 6.5, y: -50}
+        - {x: 23.5, y: -22}
+        - {x: 23.5, y: 50}
+    - name: minotaurking_88
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 401
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 48}
+        - {x: -26, y: -34}
+        - {x: -23, y: -44}
+        - {x: -11, y: -48}
+        - {x: 26, y: -48}
+        - {x: 26, y: 48}
+    - name: minotaurking_89
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 409
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -29}
+        - {x: 1.5, y: -30}
+        - {x: 3.5, y: -24}
+        - {x: 3.5, y: -25}
+        - {x: 7.5, y: -29}
+        - {x: 13.5, y: -29}
+        - {x: 16.5, y: -28}
+        - {x: 27.5, y: -24}
+        - {x: 28.5, y: -18}
+        - {x: 28.5, y: 12}
+        - {x: 15.5, y: 14}
+        - {x: 23.5, y: 36}
+        - {x: 22.5, y: 41}
+        - {x: 15.5, y: 45}
+        - {x: -28.5, y: 45}
+        - {x: -28.5, y: -45}
+        - {x: 25.5, y: -45}
+        - {x: 28.5, y: -41}
+        - {x: 28.5, y: -31}
+        - {x: 24.5, y: -28}
+    - name: minotaurking_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 417
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 44.5}
+        - {x: -25, y: -44.5}
+        - {x: 25, y: -44.5}
+        - {x: 25, y: 44.5}
+    - name: minotaurking_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 277
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 44.5}
+        - {x: -26, y: 35.5}
+        - {x: -26, y: -44.5}
+        - {x: 26, y: -44.5}
+        - {x: 26, y: 44.5}
+    - name: minotaurking_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 277
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 42}
+        - {x: -28.5, y: 36}
+        - {x: -28.5, y: -42}
+        - {x: 27.5, y: -42}
+        - {x: 28.5, y: -41}
+        - {x: 28.5, y: 42}
+    - name: minotaurking_93
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 277
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -41.5}
+        - {x: 27, y: -36.5}
+        - {x: 38, y: -25.5}
+        - {x: 38, y: 42.5}
+        - {x: 29, y: 45.5}
+        - {x: 21, y: 51.5}
+        - {x: -10, y: 51.5}
+        - {x: -38, y: 20.5}
+        - {x: -38, y: -51.5}
+        - {x: 26, y: -51.5}
+        - {x: 26, y: -48.5}
+        - {x: 25, y: -45.5}
+    - name: minotaurking_94
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 277
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50.5}
+        - {x: -48, y: 21.5}
+        - {x: -48, y: 5.5}
+        - {x: -42, y: -13.5}
+        - {x: -32, y: -14.5}
+        - {x: -27, y: -11.5}
+        - {x: -27, y: -8.5}
+        - {x: -27, y: -10.5}
+        - {x: -26, y: -13.5}
+        - {x: -23, y: -17.5}
+        - {x: -17, y: -20.5}
+        - {x: -14, y: -22.5}
+        - {x: -9, y: -22.5}
+        - {x: -7, y: -20.5}
+        - {x: -6, y: -16.5}
+        - {x: -7, y: -22.5}
+        - {x: -13, y: -22.5}
+        - {x: -23, y: -21.5}
+        - {x: -28, y: -20.5}
+        - {x: -29, y: -23.5}
+        - {x: -28, y: -26.5}
+        - {x: -48, y: -39.5}
+        - {x: -48, y: -50.5}
+        - {x: 48, y: -50.5}
+        - {x: 48, y: 26.5}
+        - {x: 43, y: 50.5}
+    - name: minotaurking_95
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 275
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -28.5}
+        - {x: 33.5, y: -24.5}
+        - {x: 32.5, y: -22.5}
+        - {x: 33.5, y: -18.5}
+        - {x: 33.5, y: 38.5}
+        - {x: 17.5, y: 50.5}
+        - {x: -3.5, y: 50.5}
+        - {x: -31.5, y: 35.5}
+        - {x: -33.5, y: 6.5}
+        - {x: -33.5, y: -15.5}
+        - {x: -31.5, y: -20.5}
+        - {x: -33.5, y: -20.5}
+        - {x: -33.5, y: -42.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 4.5, y: -50.5}
+        - {x: 27.5, y: -46.5}
+        - {x: 28.5, y: -39.5}
+        - {x: 24.5, y: -36.5}
+    - name: minotaurking_96
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 277
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 47.5}
+        - {x: -28, y: 41.5}
+        - {x: -28, y: -47.5}
+        - {x: 16, y: -47.5}
+        - {x: 18, y: -41.5}
+        - {x: 28, y: -45.5}
+        - {x: 28, y: 47.5}
+    - name: minotaurking_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 47.5}
+        - {x: -37.5, y: 30.5}
+        - {x: -37.5, y: -47.5}
+        - {x: 37.5, y: -47.5}
+        - {x: 37.5, y: 47.5}
+    - name: minotaurking_98
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 145
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -14}
+        - {x: 51, y: 15}
+        - {x: 51, y: 28}
+        - {x: 49, y: 35}
+        - {x: 0, y: 47}
+        - {x: -51, y: 47}
+        - {x: -51, y: -38}
+        - {x: -37, y: -47}
+        - {x: 40, y: -47}
+        - {x: 51, y: -24}
+        - {x: 51, y: -14}
+        - {x: 45, y: -12}
+    - name: minotaurking_99
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 151
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 17}
+        - {x: -1.5, y: 14}
+        - {x: 2.5, y: 19}
+        - {x: 5.5, y: 24}
+        - {x: 8.5, y: 36}
+        - {x: 3.5, y: 44}
+        - {x: -11.5, y: 44}
+        - {x: -34.5, y: 18}
+        - {x: -34.5, y: -40}
+        - {x: -26.5, y: -44}
+        - {x: 30.5, y: -44}
+        - {x: 34.5, y: -32}
+        - {x: 34.5, y: 22}
+        - {x: 21.5, y: 29}
+    - name: minotaurking_100
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 156
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 13}
+        - {x: 5, y: 8}
+        - {x: 18, y: 26}
+        - {x: 17, y: 32}
+        - {x: 6, y: 32}
+        - {x: -24, y: 23}
+        - {x: -24, y: -32}
+        - {x: 21, y: -32}
+        - {x: 24, y: -26}
+        - {x: 24, y: 7}
+        - {x: 18, y: 11}
+    - name: minotaurking_101
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 153
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 19}
+        - {x: -24, y: -4}
+        - {x: -22, y: -19}
+        - {x: 21, y: -19}
+        - {x: 24, y: -17}
+        - {x: 24, y: 12}
+        - {x: 21, y: 19}
+    - name: minotaurking_102
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 153
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16.5}
+        - {x: -21, y: 16.5}
+        - {x: -21, y: -4.5}
+        - {x: -18, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 9.5}
+        - {x: 18, y: 11.5}
+    - name: minotaurking_103
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 82
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: minotaurking_104
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 9
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -32}
+        - {x: 18, y: -33}
+        - {x: 21, y: -33}
+        - {x: 23, y: -32}
+        - {x: 23, y: 48}
+        - {x: -14, y: 48}
+        - {x: -23, y: 35}
+        - {x: -23, y: -45}
+        - {x: -16, y: -48}
+        - {x: 12, y: -48}
+        - {x: 23, y: -44}
+        - {x: 23, y: -41}
+        - {x: 20, y: -37}
+    - name: minotaurking_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 9
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 48.5}
+        - {x: 4, y: 45.5}
+        - {x: 0, y: 40.5}
+        - {x: -3, y: 40.5}
+        - {x: 1, y: 41.5}
+        - {x: 3, y: 44.5}
+        - {x: 4, y: 48.5}
+        - {x: -4, y: 48.5}
+        - {x: -20, y: 44.5}
+        - {x: -26, y: 16.5}
+        - {x: -26, y: -21.5}
+        - {x: -20, y: -23.5}
+        - {x: -17, y: -20.5}
+        - {x: -13, y: -15.5}
+        - {x: -16, y: -18.5}
+        - {x: -22, y: -27.5}
+        - {x: -26, y: -34.5}
+        - {x: -26, y: -40.5}
+        - {x: -19, y: -48.5}
+        - {x: 18, y: -48.5}
+        - {x: 26, y: -46.5}
+        - {x: 26, y: 25.5}
+        - {x: 23, y: 48.5}
+    - name: minotaurking_106
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 9
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -51.5}
+        - {x: 23, y: -51.5}
+        - {x: 29, y: -48.5}
+        - {x: 29, y: 16.5}
+        - {x: 20, y: 48.5}
+        - {x: -9, y: 48.5}
+        - {x: -29, y: 16.5}
+      - - {x: -17, y: 26.5}
+        - {x: -14, y: 27.5}
+        - {x: -14, y: 30.5}
+        - {x: -17, y: 31.5}
+        - {x: -19, y: 29.5}
+      - - {x: 20, y: 39.5}
+        - {x: 23, y: 40.5}
+        - {x: 23, y: 43.5}
+        - {x: 20, y: 44.5}
+        - {x: 18, y: 42.5}
+      - - {x: -13, y: 41.5}
+        - {x: -10, y: 42.5}
+        - {x: -10, y: 45.5}
+        - {x: -13, y: 46.5}
+        - {x: -15, y: 44.5}
+      - - {x: 8, y: 49.5}
+        - {x: 8, y: 51.5}
+        - {x: 3, y: 51.5}
+        - {x: 5, y: 48.5}
+    - name: minotaurking_107
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 9
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 47.5}
+        - {x: -30, y: 25.5}
+        - {x: -30, y: -51.5}
+        - {x: 22, y: -51.5}
+        - {x: 30, y: -46.5}
+        - {x: 30, y: 20.5}
+        - {x: 23, y: 47.5}
+      - - {x: -16, y: 30.5}
+        - {x: -13, y: 31.5}
+        - {x: -13, y: 34.5}
+        - {x: -16, y: 35.5}
+        - {x: -18, y: 33.5}
+      - - {x: 21, y: 31.5}
+        - {x: 24, y: 31.5}
+        - {x: 29, y: 33.5}
+        - {x: 29, y: 37.5}
+        - {x: 26, y: 38.5}
+        - {x: 20, y: 34.5}
+      - - {x: 25, y: 45.5}
+        - {x: 22, y: 42.5}
+        - {x: 22, y: 41.5}
+        - {x: 25, y: 38.5}
+        - {x: 26, y: 38.5}
+        - {x: 29, y: 41.5}
+        - {x: 29, y: 42.5}
+        - {x: 26, y: 45.5}
+      - - {x: 1, y: 44.5}
+        - {x: 4, y: 45.5}
+        - {x: 4, y: 48.5}
+        - {x: 1, y: 49.5}
+        - {x: -1, y: 47.5}
+      - - {x: 8, y: 51.5}
+        - {x: 7, y: 49.5}
+        - {x: 10, y: 46.5}
+        - {x: 11, y: 46.5}
+        - {x: 14, y: 49.5}
+        - {x: 13, y: 51.5}
+      - - {x: 25, y: 46.5}
+        - {x: 28, y: 47.5}
+        - {x: 28, y: 50.5}
+        - {x: 25, y: 51.5}
+        - {x: 23, y: 49.5}
+      - - {x: 17, y: 47.5}
+        - {x: 20, y: 48.5}
+        - {x: 20, y: 51.5}
+        - {x: 16, y: 51.5}
+        - {x: 15, y: 50.5}
+    - name: minotaurking_108
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 9
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 38}
+        - {x: 21.5, y: 38}
+        - {x: 16.5, y: 33}
+        - {x: 16.5, y: 32}
+        - {x: 11.5, y: 37}
+        - {x: 15.5, y: 34}
+        - {x: 18.5, y: 35}
+        - {x: 18.5, y: 37}
+        - {x: 21.5, y: 38}
+        - {x: 22.5, y: 38}
+        - {x: 24.5, y: 40}
+        - {x: 25.5, y: 46}
+        - {x: -9.5, y: 46}
+        - {x: -14.5, y: 35}
+        - {x: -9.5, y: 33}
+        - {x: -8.5, y: 33}
+        - {x: -9.5, y: 31}
+        - {x: -19.5, y: 34}
+        - {x: -28.5, y: 9}
+        - {x: -28.5, y: -47}
+        - {x: -17.5, y: -50}
+        - {x: 28.5, y: -50}
+        - {x: 28.5, y: 36}
+      - - {x: -12.5, y: 29}
+        - {x: -9.5, y: 30}
+        - {x: -9.5, y: 33}
+        - {x: -12.5, y: 34}
+        - {x: -14.5, y: 32}
+      - - {x: 21.5, y: 44}
+        - {x: 24.5, y: 45}
+        - {x: 24.5, y: 48}
+        - {x: 21.5, y: 49}
+        - {x: 19.5, y: 47}
+      - - {x: 2.5, y: 50}
+        - {x: 1.5, y: 48}
+        - {x: 4.5, y: 45}
+        - {x: 5.5, y: 45}
+        - {x: 8.5, y: 48}
+        - {x: 7.5, y: 50}
+      - - {x: -2.5, y: 46}
+        - {x: 0.5, y: 47}
+        - {x: 0.5, y: 50}
+        - {x: -3.5, y: 50}
+        - {x: -4.5, y: 49}
+      - - {x: 19.5, y: 48}
+        - {x: 19.5, y: 50}
+        - {x: 14.5, y: 50}
+        - {x: 16.5, y: 47}
+    - name: minotaurking_109
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 10
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 47.5}
+        - {x: -11.5, y: 43.5}
+        - {x: -25.5, y: 32.5}
+        - {x: -25.5, y: -48.5}
+        - {x: 23.5, y: -48.5}
+        - {x: 23.5, y: 42.5}
+        - {x: 22.5, y: 47.5}
+      - - {x: 13.5, y: 34.5}
+        - {x: 16.5, y: 35.5}
+        - {x: 16.5, y: 38.5}
+        - {x: 13.5, y: 39.5}
+        - {x: 11.5, y: 37.5}
+      - - {x: 22.5, y: 41.5}
+        - {x: 24.5, y: 39.5}
+        - {x: 25.5, y: 39.5}
+        - {x: 25.5, y: 44.5}
+        - {x: 23.5, y: 44.5}
+      - - {x: 6.5, y: 46.5}
+        - {x: 6.5, y: 48.5}
+        - {x: 1.5, y: 48.5}
+        - {x: 3.5, y: 45.5}
+    - name: minotaurking_110
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_111
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 59
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_112
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 59
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_113
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_114
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 62
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_115
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 62
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_116
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 59
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_117
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 44
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_118
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 41
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_119
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 44
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_120
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_121
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 44
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_122
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_123
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 28
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_124
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 28
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_125
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_126
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 25
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_127
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 28
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_128
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_129
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_130
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_131
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 25
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_132
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 28
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_133
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 28
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_134
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 28
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_135
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_136
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 28
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_137
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 9
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_138
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_139
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_140
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 12
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_141
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_142
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 9
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_143
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_144
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_145
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_146
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_147
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_148
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: minotaurking_149
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

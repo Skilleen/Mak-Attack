@@ -1,0 +1,2578 @@
+fileFormatVersion: 2
+guid: d82ff03252afbce4c97019e4f9001142
+timeCreated: 1459183116
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PitLord_0
+    21300002: PitLord_1
+    21300004: PitLord_2
+    21300006: PitLord_3
+    21300008: PitLord_4
+    21300010: PitLord_5
+    21300012: PitLord_6
+    21300014: PitLord_7
+    21300016: PitLord_8
+    21300018: PitLord_9
+    21300020: PitLord_10
+    21300022: PitLord_11
+    21300024: PitLord_12
+    21300026: PitLord_13
+    21300028: PitLord_14
+    21300030: PitLord_15
+    21300032: PitLord_16
+    21300034: PitLord_17
+    21300036: PitLord_18
+    21300038: PitLord_19
+    21300040: PitLord_20
+    21300042: PitLord_21
+    21300044: PitLord_22
+    21300046: PitLord_23
+    21300048: PitLord_24
+    21300050: PitLord_25
+    21300052: PitLord_26
+    21300054: PitLord_27
+    21300056: PitLord_28
+    21300058: PitLord_29
+    21300060: PitLord_30
+    21300062: PitLord_31
+    21300064: PitLord_32
+    21300066: PitLord_33
+    21300068: PitLord_34
+    21300070: PitLord_35
+    21300072: PitLord_36
+    21300074: PitLord_37
+    21300076: PitLord_38
+    21300078: PitLord_39
+    21300080: PitLord_40
+    21300082: PitLord_41
+    21300084: PitLord_42
+    21300086: PitLord_43
+    21300088: PitLord_44
+    21300090: PitLord_45
+    21300092: PitLord_46
+    21300094: PitLord_47
+    21300096: PitLord_48
+    21300098: PitLord_49
+    21300100: PitLord_50
+    21300102: PitLord_51
+    21300104: PitLord_52
+    21300106: PitLord_53
+    21300108: PitLord_54
+    21300110: PitLord_55
+    21300112: PitLord_56
+    21300114: PitLord_57
+    21300116: PitLord_58
+    21300118: PitLord_59
+    21300120: PitLord_60
+    21300122: PitLord_61
+    21300124: PitLord_62
+    21300126: PitLord_63
+    21300128: PitLord_64
+    21300130: PitLord_65
+    21300132: PitLord_66
+    21300134: PitLord_67
+    21300136: PitLord_68
+    21300138: PitLord_69
+    21300140: PitLord_70
+    21300142: PitLord_71
+    21300144: PitLord_72
+    21300146: PitLord_73
+    21300148: PitLord_74
+    21300150: PitLord_75
+    21300152: PitLord_76
+    21300154: PitLord_77
+    21300156: PitLord_78
+    21300158: PitLord_79
+    21300160: PitLord_80
+    21300162: PitLord_81
+    21300164: PitLord_82
+    21300166: PitLord_83
+    21300168: PitLord_84
+    21300170: PitLord_85
+    21300172: PitLord_86
+    21300174: PitLord_87
+    21300176: PitLord_88
+    21300178: PitLord_89
+    21300180: PitLord_90
+    21300182: PitLord_91
+    21300184: PitLord_92
+    21300186: PitLord_93
+    21300188: PitLord_94
+    21300190: PitLord_95
+    21300192: PitLord_96
+    21300194: PitLord_97
+    21300196: PitLord_98
+    21300198: PitLord_99
+    21300200: PitLord_100
+    21300202: PitLord_101
+    21300204: PitLord_102
+    21300206: PitLord_103
+    21300208: PitLord_104
+    21300210: PitLord_105
+    21300212: PitLord_106
+    21300214: PitLord_107
+    21300216: PitLord_108
+    21300218: PitLord_109
+    21300220: PitLord_110
+    21300222: PitLord_111
+    21300224: PitLord_112
+    21300226: PitLord_113
+    21300228: PitLord_114
+    21300230: PitLord_115
+    21300232: PitLord_116
+    21300234: PitLord_117
+    21300236: PitLord_118
+    21300238: PitLord_119
+    21300240: PitLord_120
+    21300242: PitLord_121
+    21300244: PitLord_122
+    21300246: PitLord_123
+    21300248: PitLord_124
+    21300250: PitLord_125
+    21300252: PitLord_126
+    21300254: PitLord_127
+    21300256: PitLord_128
+    21300258: PitLord_129
+    21300260: PitLord_130
+    21300262: PitLord_131
+    21300264: PitLord_132
+    21300266: PitLord_133
+    21300268: PitLord_134
+    21300270: PitLord_135
+    21300272: PitLord_136
+    21300274: PitLord_137
+    21300276: PitLord_138
+    21300278: PitLord_139
+    21300280: PitLord_140
+    21300282: PitLord_141
+    21300284: PitLord_142
+    21300286: PitLord_143
+    21300288: PitLord_144
+    21300290: PitLord_145
+    21300292: PitLord_146
+    21300294: PitLord_147
+    21300296: PitLord_148
+    21300298: PitLord_149
+    21300300: PitLord_150
+    21300302: PitLord_151
+    21300304: PitLord_152
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PitLord_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1275
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 47}
+        - {x: -20, y: 42}
+        - {x: -20, y: -46}
+        - {x: -19, y: -46}
+        - {x: -18, y: -47}
+        - {x: 20, y: -47}
+        - {x: 20, y: 17}
+        - {x: 8, y: 47}
+    - name: PitLord_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 47}
+        - {x: -20.5, y: 44}
+        - {x: -20.5, y: -47}
+        - {x: 20.5, y: -47}
+        - {x: 20.5, y: 20}
+        - {x: 6.5, y: 47}
+    - name: PitLord_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 47}
+        - {x: -11.5, y: 47}
+        - {x: -20.5, y: 36}
+        - {x: -20.5, y: -47}
+        - {x: 20.5, y: -47}
+        - {x: 20.5, y: -3}
+        - {x: 16.5, y: 26}
+    - name: PitLord_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1275
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 47}
+        - {x: -20, y: 38}
+        - {x: -20, y: -47}
+        - {x: 20, y: -47}
+        - {x: 20, y: -16}
+        - {x: 19, y: -11}
+        - {x: 14, y: 26}
+        - {x: 0, y: 47}
+    - name: PitLord_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 47}
+        - {x: -20.5, y: 23}
+        - {x: -20.5, y: -46}
+        - {x: -17.5, y: -47}
+        - {x: 20.5, y: -47}
+        - {x: 20.5, y: 17}
+        - {x: 12.5, y: 47}
+    - name: PitLord_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 47}
+        - {x: -20.5, y: 22}
+        - {x: -20.5, y: -47}
+        - {x: 20.5, y: -47}
+        - {x: 20.5, y: 35}
+        - {x: 18.5, y: 47}
+    - name: PitLord_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 47}
+        - {x: -20.5, y: 23}
+        - {x: -20.5, y: -47}
+        - {x: 20.5, y: -47}
+        - {x: 20.5, y: 33}
+        - {x: 17.5, y: 47}
+    - name: PitLord_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 47}
+        - {x: -20.5, y: 39}
+        - {x: -20.5, y: -47}
+        - {x: 20.5, y: -47}
+        - {x: 20.5, y: 20}
+        - {x: 14.5, y: 47}
+    - name: PitLord_8
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1275
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 47}
+        - {x: -20.5, y: 44}
+        - {x: -20.5, y: -47}
+        - {x: 17.5, y: -47}
+        - {x: 20.5, y: -46}
+        - {x: 20.5, y: 24}
+        - {x: 10.5, y: 47}
+    - name: PitLord_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1167
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 24}
+        - {x: -8.5, y: 18}
+        - {x: -16.5, y: 6}
+        - {x: -16.5, y: -21}
+        - {x: -12.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 16.5, y: 14}
+        - {x: 11.5, y: 24}
+    - name: PitLord_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1167
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1167
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1088
+        width: 66
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 54.5}
+        - {x: -6, y: 54.5}
+        - {x: -28, y: 45.5}
+        - {x: -33, y: 34.5}
+        - {x: -33, y: -45.5}
+        - {x: -22, y: -54.5}
+        - {x: 11, y: -54.5}
+        - {x: 12, y: -53.5}
+        - {x: 33, y: -36.5}
+        - {x: 33, y: 46.5}
+    - name: PitLord_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1088
+        width: 70
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 63.5}
+        - {x: -35, y: 30.5}
+        - {x: -35, y: -58.5}
+        - {x: -25, y: -63.5}
+        - {x: 4, y: -63.5}
+        - {x: 35, y: -23.5}
+        - {x: 35, y: 63.5}
+    - name: PitLord_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1088
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -2}
+        - {x: 17, y: -4}
+        - {x: 18, y: -7}
+        - {x: 14, y: -7}
+        - {x: 19, y: 0}
+        - {x: 36, y: 30}
+        - {x: 36, y: 44}
+        - {x: 32, y: 52}
+        - {x: 17, y: 52}
+        - {x: 7, y: 26}
+        - {x: -6, y: 38}
+        - {x: -31, y: 41}
+        - {x: -36, y: 40}
+        - {x: -36, y: -45}
+        - {x: -30, y: -52}
+        - {x: 1, y: -52}
+        - {x: 31, y: -39}
+        - {x: 36, y: -31}
+        - {x: 36, y: -14}
+        - {x: 29, y: -1}
+    - name: PitLord_15
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1088
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 58.5}
+        - {x: -25.5, y: 32.5}
+        - {x: -25.5, y: -50.5}
+        - {x: -19.5, y: -58.5}
+        - {x: 20.5, y: -58.5}
+        - {x: 25.5, y: -57.5}
+        - {x: 25.5, y: 57.5}
+        - {x: 23.5, y: 58.5}
+    - name: PitLord_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1069
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 56}
+        - {x: -37.5, y: 46}
+        - {x: -37.5, y: -56}
+        - {x: 8.5, y: -56}
+        - {x: 37.5, y: -38}
+        - {x: 37.5, y: 56}
+    - name: PitLord_17
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1080
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 50.5}
+        - {x: -16, y: 35.5}
+        - {x: -16, y: -50.5}
+        - {x: 7, y: -50.5}
+        - {x: 16, y: -47.5}
+        - {x: 16, y: 50.5}
+    - name: PitLord_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1091
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 24}
+        - {x: -17.5, y: 13}
+        - {x: -17.5, y: -23}
+        - {x: -13.5, y: -24}
+        - {x: 14.5, y: -24}
+        - {x: 14.5, y: 24}
+    - name: PitLord_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1091
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 927
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -12}
+        - {x: 33.5, y: 14}
+        - {x: 8.5, y: 50}
+        - {x: -17.5, y: 50}
+        - {x: -33.5, y: 36}
+        - {x: -33.5, y: -50}
+        - {x: 10.5, y: -50}
+        - {x: 27.5, y: -46}
+        - {x: 33.5, y: -30}
+        - {x: 33.5, y: -23}
+        - {x: 31.5, y: -22}
+    - name: PitLord_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 933
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48.5}
+        - {x: -41, y: -48.5}
+        - {x: 23, y: -48.5}
+        - {x: 41, y: -42.5}
+        - {x: 41, y: 41.5}
+        - {x: 17, y: 48.5}
+    - name: PitLord_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 961
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 933
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 57}
+        - {x: -45, y: 57}
+        - {x: -45, y: 19}
+        - {x: -24, y: 3}
+        - {x: -8, y: 1}
+        - {x: -6, y: 6}
+        - {x: -6, y: -8}
+        - {x: -45, y: -19}
+        - {x: -45, y: -30}
+        - {x: -33, y: -35}
+        - {x: -23, y: -36}
+        - {x: -10, y: -53}
+        - {x: -5, y: -57}
+        - {x: 38, y: -57}
+        - {x: 45, y: -56}
+        - {x: 45, y: 13}
+        - {x: 33, y: 56}
+      - - {x: -19, y: -35}
+        - {x: -16, y: -34}
+        - {x: -16, y: -31}
+        - {x: -19, y: -30}
+        - {x: -21, y: -32}
+    - name: PitLord_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 932
+        width: 105
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: -8.5}
+        - {x: 50.5, y: -12.5}
+        - {x: 51.5, y: 8.5}
+        - {x: 52.5, y: 9.5}
+        - {x: 52.5, y: 44.5}
+        - {x: -31.5, y: 44.5}
+        - {x: -47.5, y: 27.5}
+        - {x: -52.5, y: -14.5}
+        - {x: -52.5, y: -44.5}
+        - {x: 44.5, y: -44.5}
+        - {x: 52.5, y: -29.5}
+        - {x: 52.5, y: -11.5}
+    - name: PitLord_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 932
+        width: 114
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 30}
+        - {x: 50, y: 4}
+        - {x: 55, y: 6}
+        - {x: 55, y: 14}
+        - {x: 24, y: 44}
+        - {x: -45, y: 44}
+        - {x: -57, y: 27}
+        - {x: -57, y: -44}
+        - {x: 6, y: -44}
+        - {x: 12, y: -32}
+        - {x: 7, y: -28}
+        - {x: -7, y: 17}
+      - - {x: 30, y: -29}
+        - {x: 9, y: -29}
+        - {x: 9, y: -35}
+        - {x: 28, y: -42}
+        - {x: 57, y: -42}
+        - {x: 57, y: -36}
+        - {x: 55, y: -33}
+    - name: PitLord_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 932
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 3}
+        - {x: 55, y: 5}
+        - {x: 26, y: 43}
+        - {x: 14, y: 38}
+        - {x: -5, y: 29}
+        - {x: 8, y: 42}
+        - {x: 44, y: 45}
+        - {x: 46, y: 51}
+        - {x: 25, y: 54}
+        - {x: -51, y: 54}
+        - {x: -56, y: 36}
+        - {x: -56, y: 5}
+        - {x: -26, y: -17}
+        - {x: 0, y: -5}
+        - {x: -13, y: -16}
+        - {x: -54, y: -19}
+        - {x: -56, y: -24}
+        - {x: -56, y: -37}
+        - {x: -53, y: -39}
+        - {x: -8, y: -54}
+        - {x: 44, y: -54}
+        - {x: 46, y: -50}
+        - {x: 56, y: -45}
+      - - {x: -40, y: -24}
+        - {x: -39, y: -27}
+        - {x: -19, y: -27}
+        - {x: -17, y: -25}
+        - {x: -18, y: -22}
+        - {x: -38, y: -22}
+    - name: PitLord_27
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 932
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 44.5}
+        - {x: -68, y: -8.5}
+        - {x: -68, y: -44.5}
+        - {x: 68, y: -44.5}
+        - {x: 68, y: 28.5}
+        - {x: 64, y: 44.5}
+    - name: PitLord_28
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 927
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 48}
+        - {x: -31.5, y: 2}
+        - {x: -31.5, y: -48}
+        - {x: 16.5, y: -48}
+        - {x: 26.5, y: -47}
+        - {x: 31.5, y: -35}
+        - {x: 31.5, y: 42}
+        - {x: 22.5, y: 48}
+    - name: PitLord_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 773
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: PitLord_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 821
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 818
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 818
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 821
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 821
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 821
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 818
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 773
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 59.5}
+        - {x: -46.5, y: 59.5}
+        - {x: -46.5, y: 55.5}
+        - {x: -35.5, y: 18.5}
+        - {x: -46.5, y: -13.5}
+        - {x: -46.5, y: -23.5}
+        - {x: -17.5, y: -59.5}
+        - {x: 43.5, y: -59.5}
+        - {x: 46.5, y: -56.5}
+        - {x: 46.5, y: 16.5}
+        - {x: 21.5, y: 40.5}
+    - name: PitLord_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 732
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 61}
+        - {x: -14, y: 58}
+        - {x: -20, y: 39}
+        - {x: -20, y: -32}
+        - {x: 2, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 61}
+    - name: PitLord_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 765
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 45.5}
+        - {x: -35, y: -28.5}
+        - {x: -13, y: -42.5}
+        - {x: -1, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 35, y: 40.5}
+        - {x: 32, y: 45.5}
+    - name: PitLord_40
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 768
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -12.5}
+        - {x: 37, y: -17.5}
+        - {x: 38, y: -18.5}
+        - {x: 42, y: -20.5}
+        - {x: 48, y: -15.5}
+        - {x: 48, y: 1.5}
+        - {x: 40, y: 37.5}
+        - {x: 2, y: 38.5}
+        - {x: -1, y: 30.5}
+        - {x: -8, y: 40.5}
+        - {x: 26, y: 39.5}
+        - {x: 27, y: 52.5}
+        - {x: -1, y: 58.5}
+        - {x: -46, y: 58.5}
+        - {x: -48, y: 55.5}
+        - {x: -48, y: -35.5}
+        - {x: -12, y: -58.5}
+        - {x: 44, y: -58.5}
+        - {x: 43, y: -54.5}
+        - {x: 48, y: -49.5}
+        - {x: 48, y: -38.5}
+    - name: PitLord_41
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 772
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 43.5}
+        - {x: -40.5, y: 9.5}
+        - {x: -32.5, y: -18.5}
+        - {x: -46.5, y: -17.5}
+        - {x: -50.5, y: -18.5}
+        - {x: -38.5, y: -7.5}
+        - {x: -38.5, y: -4.5}
+        - {x: -40.5, y: -2.5}
+        - {x: -45.5, y: -1.5}
+        - {x: -56.5, y: -8.5}
+        - {x: -59.5, y: -13.5}
+        - {x: -61.5, y: -16.5}
+        - {x: -61.5, y: -30.5}
+        - {x: -44.5, y: -42.5}
+        - {x: -38.5, y: -43.5}
+        - {x: 61.5, y: -43.5}
+        - {x: 61.5, y: 9.5}
+        - {x: 51.5, y: 43.5}
+    - name: PitLord_42
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 769
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 47}
+        - {x: -2, y: 47}
+        - {x: -7, y: 44}
+        - {x: -37, y: -3}
+        - {x: -37, y: -47}
+        - {x: 25, y: -47}
+        - {x: 37, y: -41}
+        - {x: 37, y: 26}
+        - {x: 33, y: 42}
+    - name: PitLord_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 802
+        width: 125
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 805
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 805
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 805
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 805
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 789
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 789
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 789
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 786
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 789
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 789
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 787
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 786
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 789
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_59
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 789
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 789
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 789
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_63
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 770
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 773
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 770
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_69
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 773
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_74
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 773
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 773
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 599
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 47}
+        - {x: -14, y: 44}
+        - {x: -24, y: 5}
+        - {x: -24, y: -42}
+        - {x: -18, y: -47}
+        - {x: 24, y: -47}
+        - {x: 24, y: 13}
+        - {x: 16, y: 47}
+    - name: PitLord_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 592
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -43.5}
+        - {x: -11, y: -49.5}
+        - {x: 36, y: -49.5}
+        - {x: 36, y: 31.5}
+        - {x: 33, y: 49.5}
+        - {x: 4, y: 49.5}
+        - {x: -6, y: 46.5}
+        - {x: -36, y: -28.5}
+    - name: PitLord_78
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 594
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 47}
+        - {x: -10, y: 47}
+        - {x: -40, y: -35}
+        - {x: -40, y: -43}
+        - {x: 3, y: -47}
+        - {x: 37, y: -47}
+        - {x: 40, y: -45}
+        - {x: 40, y: -3}
+        - {x: 38, y: 11}
+    - name: PitLord_79
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 594
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 16, y: 14}
+        - {x: 19, y: 19}
+        - {x: 18, y: 26}
+        - {x: 15, y: 48}
+        - {x: -7, y: 48}
+        - {x: -35, y: -35}
+        - {x: -35, y: -48}
+        - {x: 35, y: -48}
+        - {x: 35, y: 12}
+        - {x: 31, y: 25}
+        - {x: 16, y: 15}
+    - name: PitLord_80
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 596
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 48}
+        - {x: -3, y: 48}
+        - {x: -9, y: 26}
+        - {x: -31, y: -32}
+        - {x: -31, y: -48}
+        - {x: 31, y: -48}
+        - {x: 31, y: -6}
+        - {x: 29, y: -2}
+    - name: PitLord_81
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 596
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -10}
+        - {x: 21, y: -4}
+        - {x: 24, y: -10}
+        - {x: 24, y: -12}
+        - {x: 25, y: -16}
+        - {x: 34, y: -15}
+        - {x: 34, y: 12}
+        - {x: 23, y: 47}
+        - {x: -14, y: 47}
+        - {x: -28, y: -31}
+        - {x: -9, y: -34}
+        - {x: -7, y: -33}
+        - {x: -3, y: -37}
+        - {x: 5, y: -38}
+        - {x: -1, y: -37}
+        - {x: -9, y: -36}
+        - {x: -10, y: -35}
+        - {x: -29, y: -35}
+        - {x: -34, y: -38}
+        - {x: -34, y: -47}
+        - {x: 34, y: -47}
+        - {x: 34, y: -26}
+        - {x: 24, y: -20}
+    - name: PitLord_82
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 596
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: -44}
+        - {x: 40.5, y: -24}
+        - {x: 32.5, y: -16}
+        - {x: 28.5, y: -4}
+        - {x: 32.5, y: -11}
+        - {x: 38.5, y: -11}
+        - {x: 40.5, y: -10}
+        - {x: 40.5, y: 16}
+        - {x: 32.5, y: 46}
+        - {x: 12.5, y: 46}
+        - {x: -20.5, y: 26}
+        - {x: -40.5, y: -15}
+        - {x: -40.5, y: -45}
+        - {x: -39.5, y: -46}
+        - {x: -28.5, y: -46}
+        - {x: -29.5, y: -43}
+        - {x: -11.5, y: -46}
+        - {x: 39.5, y: -46}
+    - name: PitLord_83
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 595
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -47.5}
+        - {x: 39, y: -47.5}
+        - {x: 39, y: 47.5}
+        - {x: -25, y: 47.5}
+        - {x: -39, y: 12.5}
+        - {x: -39, y: -43.5}
+    - name: PitLord_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 468
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 48}
+        - {x: 2, y: 42}
+        - {x: -8, y: 3}
+        - {x: -39, y: -29}
+        - {x: -39, y: -45}
+        - {x: -4, y: -48}
+        - {x: 39, y: -48}
+        - {x: 39, y: 28}
+        - {x: 25, y: 48}
+    - name: PitLord_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 467
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 47.5}
+        - {x: -9.5, y: 47.5}
+        - {x: -36.5, y: -30.5}
+        - {x: -36.5, y: -47.5}
+        - {x: 36.5, y: -47.5}
+        - {x: 36.5, y: -19.5}
+        - {x: 29.5, y: -3.5}
+    - name: PitLord_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 468
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 46.5}
+        - {x: -35, y: 9.5}
+        - {x: -35, y: -39.5}
+        - {x: -12, y: -46.5}
+        - {x: 35, y: -46.5}
+        - {x: 35, y: 6.5}
+        - {x: 17, y: 46.5}
+    - name: PitLord_87
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 468
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 48}
+        - {x: -29.5, y: 15}
+        - {x: -29.5, y: -48}
+        - {x: 29.5, y: -48}
+        - {x: 29.5, y: 15}
+        - {x: 24.5, y: 48}
+    - name: PitLord_88
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 485
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -29, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 32}
+    - name: PitLord_89
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 13, y: 16}
+    - name: PitLord_90
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 522
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_91
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 522
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_92
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 522
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_93
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 522
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_94
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 522
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_95
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 522
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_96
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 497
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_97
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_98
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 497
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_99
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_100
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_101
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 497
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_102
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_103
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 497
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_104
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 497
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_105
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 494
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_106
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 497
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_107
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 497
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_108
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_109
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_110
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 497
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_111
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 497
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_112
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_113
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 494
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_114
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 497
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_115
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_116
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 481
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_117
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 479
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_118
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 481
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_119
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_120
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 481
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_121
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 478
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_122
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_123
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 481
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_124
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_125
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 481
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_126
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 481
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_127
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_128
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_129
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 481
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PitLord_130
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 344
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 43.5}
+        - {x: -30, y: -31.5}
+        - {x: -7, y: -43.5}
+        - {x: 21, y: -43.5}
+        - {x: 30, y: -39.5}
+        - {x: 30, y: 39.5}
+        - {x: 24, y: 43.5}
+      - - {x: -27, y: -15.5}
+        - {x: -25, y: -17.5}
+        - {x: -22, y: -16.5}
+        - {x: -22, y: -13.5}
+        - {x: -24, y: -11.5}
+        - {x: -27, y: -12.5}
+    - name: PitLord_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 344
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 35}
+        - {x: -38, y: 23}
+        - {x: -40, y: 17}
+        - {x: -40, y: 1}
+        - {x: -35, y: -5}
+        - {x: -32, y: -7}
+        - {x: -24, y: -6}
+        - {x: -12, y: 2}
+        - {x: -8, y: 0}
+        - {x: -40, y: -13}
+        - {x: -40, y: -28}
+        - {x: -23, y: -35}
+        - {x: 40, y: -35}
+        - {x: 40, y: 23}
+        - {x: 15, y: 35}
+    - name: PitLord_132
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 347
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -27}
+        - {x: 29, y: -24}
+        - {x: 22, y: -22}
+        - {x: 16, y: -19}
+        - {x: 28, y: -21}
+        - {x: 31, y: -25}
+        - {x: 36, y: -25}
+        - {x: 46, y: -16}
+        - {x: 46, y: -7}
+        - {x: 13, y: 33}
+        - {x: 8, y: 37}
+        - {x: -32, y: 37}
+        - {x: -46, y: 25}
+        - {x: -46, y: -31}
+        - {x: -39, y: -37}
+        - {x: 28, y: -37}
+        - {x: 44, y: -34}
+        - {x: 46, y: -32}
+        - {x: 46, y: -27}
+      - - {x: -34, y: -17}
+        - {x: -31, y: -16}
+        - {x: -31, y: -13}
+        - {x: -34, y: -12}
+        - {x: -36, y: -14}
+    - name: PitLord_133
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 340
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 27}
+        - {x: -2, y: 44}
+        - {x: -23, y: 44}
+        - {x: -28, y: 39}
+        - {x: -31, y: -3}
+        - {x: -31, y: -31}
+        - {x: -27, y: -36}
+        - {x: -18, y: -44}
+        - {x: 15, y: -44}
+        - {x: 31, y: -26}
+        - {x: 31, y: 28}
+        - {x: 24, y: 34}
+    - name: PitLord_134
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 346
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -9}
+        - {x: -26.5, y: -39}
+        - {x: -23.5, y: -42}
+        - {x: 26.5, y: -42}
+        - {x: 26.5, y: 42}
+        - {x: -10.5, y: 42}
+        - {x: -21.5, y: 14}
+    - name: PitLord_135
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 348
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 44.5}
+        - {x: -27.5, y: 18.5}
+        - {x: -27.5, y: -44.5}
+        - {x: 27.5, y: -44.5}
+        - {x: 27.5, y: 18.5}
+        - {x: 8.5, y: 44.5}
+    - name: PitLord_136
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 348
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 47}
+        - {x: -15, y: 44}
+        - {x: -28, y: -7}
+        - {x: -28, y: -47}
+        - {x: 28, y: -47}
+        - {x: 28, y: 25}
+        - {x: 21, y: 47}
+    - name: PitLord_137
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 345
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 48.5}
+        - {x: -19, y: -37.5}
+        - {x: -18, y: -42.5}
+        - {x: -17, y: -45.5}
+        - {x: -3, y: -48.5}
+        - {x: 19, y: -48.5}
+        - {x: 19, y: 2.5}
+        - {x: 16, y: 40.5}
+        - {x: 14, y: 48.5}
+    - name: PitLord_138
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 157
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -38}
+        - {x: 38.5, y: -22}
+        - {x: 38.5, y: 47}
+        - {x: -22.5, y: 47}
+        - {x: -26.5, y: 44}
+        - {x: -25.5, y: 36}
+        - {x: -20.5, y: 33}
+        - {x: -29.5, y: 35}
+        - {x: -38.5, y: 34}
+        - {x: -38.5, y: -35}
+        - {x: -15.5, y: -47}
+        - {x: 26.5, y: -47}
+        - {x: 33.5, y: -44}
+        - {x: 35.5, y: -42}
+        - {x: 35.5, y: -40}
+    - name: PitLord_139
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 152
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -24}
+        - {x: 40, y: -17}
+        - {x: 40, y: -10}
+        - {x: 37, y: -8}
+        - {x: 40, y: 30}
+        - {x: 40, y: 52}
+        - {x: -15, y: 52}
+        - {x: -16, y: 45}
+        - {x: -15, y: 38}
+        - {x: -9, y: 34}
+        - {x: -5, y: 34}
+        - {x: -18, y: 34}
+        - {x: -16, y: 38}
+        - {x: -18, y: 50}
+        - {x: -21, y: 52}
+        - {x: -40, y: 52}
+        - {x: -40, y: -26}
+        - {x: -12, y: -52}
+        - {x: 23, y: -52}
+        - {x: 25, y: -51}
+        - {x: 22, y: -43}
+        - {x: 21, y: -40}
+    - name: PitLord_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 169
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 1.5}
+        - {x: 34.5, y: 35.5}
+        - {x: 2.5, y: 52.5}
+        - {x: -34.5, y: 52.5}
+        - {x: -34.5, y: -47.5}
+        - {x: -27.5, y: -52.5}
+        - {x: 33.5, y: -52.5}
+        - {x: 34.5, y: -50.5}
+        - {x: 34.5, y: -24.5}
+        - {x: 28.5, y: -23.5}
+    - name: PitLord_141
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 172
+        width: 52
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -2}
+        - {x: 3, y: 65}
+        - {x: -15, y: 65}
+        - {x: -22, y: 55}
+        - {x: -26, y: 18}
+        - {x: -26, y: -65}
+        - {x: 26, y: -65}
+        - {x: 26, y: -10}
+        - {x: 16, y: 2}
+    - name: PitLord_142
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 166
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20.5}
+        - {x: -25, y: 13.5}
+        - {x: -25, y: -20.5}
+        - {x: 25, y: -20.5}
+        - {x: 25, y: 20.5}
+    - name: PitLord_143
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 158
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 46}
+        - {x: -16, y: 42}
+        - {x: -32, y: -29}
+        - {x: -32, y: -46}
+        - {x: 28, y: -46}
+        - {x: 32, y: -41}
+        - {x: 32, y: 6}
+        - {x: 12, y: 46}
+    - name: PitLord_144
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 160
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 45}
+        - {x: -34, y: 6}
+        - {x: -34, y: -45}
+        - {x: 34, y: -45}
+        - {x: 34, y: 18}
+        - {x: 2, y: 45}
+    - name: PitLord_145
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 159
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -28}
+        - {x: 14, y: -34}
+        - {x: 17, y: -43}
+        - {x: 17, y: -45}
+        - {x: 31, y: -45}
+        - {x: 40, y: -44}
+        - {x: 40, y: -10}
+        - {x: 33, y: 29}
+        - {x: 16, y: 41}
+        - {x: 0, y: 45}
+        - {x: -32, y: 45}
+        - {x: -35, y: 41}
+        - {x: -40, y: 7}
+        - {x: -40, y: -45}
+        - {x: 16, y: -45}
+        - {x: 13, y: -38}
+        - {x: 10, y: -32}
+    - name: PitLord_146
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 160
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 43.5}
+        - {x: -25, y: 39.5}
+        - {x: -34, y: -23.5}
+        - {x: -34, y: -41.5}
+        - {x: -32, y: -43.5}
+        - {x: 34, y: -43.5}
+        - {x: 34, y: 43.5}
+    - name: PitLord_147
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 13
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 45.5}
+        - {x: -21.5, y: 23.5}
+        - {x: -21.5, y: -45.5}
+        - {x: 21.5, y: -45.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 12.5, y: 45.5}
+    - name: PitLord_148
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 14
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 43.5}
+        - {x: -27, y: 4.5}
+        - {x: -27, y: -43.5}
+        - {x: 27, y: -43.5}
+        - {x: 27, y: 15.5}
+        - {x: 14, y: 43.5}
+    - name: PitLord_149
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 14
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 41.5}
+        - {x: -23.5, y: 18.5}
+        - {x: -32.5, y: -18.5}
+        - {x: -32.5, y: -38.5}
+        - {x: -25.5, y: -41.5}
+        - {x: 32.5, y: -41.5}
+        - {x: 32.5, y: 12.5}
+        - {x: 16.5, y: 41.5}
+    - name: PitLord_150
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 15
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 38}
+        - {x: -36, y: -1}
+        - {x: -36, y: -38}
+        - {x: 36, y: -38}
+        - {x: 36, y: 29}
+        - {x: 33, y: 38}
+    - name: PitLord_151
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 15
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 35}
+        - {x: -18.5, y: 34}
+        - {x: -36.5, y: -2}
+        - {x: -36.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 23}
+        - {x: 24.5, y: 35}
+    - name: PitLord_152
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 15
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 32}
+        - {x: -17.5, y: 21}
+        - {x: -35.5, y: -7}
+        - {x: -35.5, y: -32}
+        - {x: 35.5, y: -32}
+        - {x: 35.5, y: 14}
+        - {x: 21.5, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
