@@ -126,6 +126,7 @@ public class RayoScriptLevel5 : MonoBehaviour {
                 anim.SetBool("walk", false);
                 dead = true;
                 rayoLife = 0;
+				SceneManager.LoadScene("GameOverScreen");
             }
         }
     }

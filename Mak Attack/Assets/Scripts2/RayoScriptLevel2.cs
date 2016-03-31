@@ -202,6 +202,7 @@ public class RayoScriptLevel2 : MonoBehaviour {
             anim.SetBool("walk", false);
             dead = true;
             rayoLife = 0;
+			SceneManager.LoadScene("GameOverScreen");
         }
     }
     void OnCollisionEnter2D(Collision2D col)
